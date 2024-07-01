@@ -97,7 +97,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 #EXTINF:-1 tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
 http://gotv.vip:8880/jean50/jean50/80
-#EXTINF:-1 tvg-id="Paramount.lat" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
+#EXTINF:-1 tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
 http://gotv.vip:8880/jean50/jean50/251
 #EXTINF:-1 tvg-id="Sony.lat" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312825
@@ -107,13 +107,13 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148776.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110081
 #EXTINF:-1 tvg-id="TCM.lat" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-#EXTINF:-1 tvg-id="HBO.lat" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
+#EXTINF:-1 tvg-id="HBO HD.pe" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
 http://gotv.vip:8880/jean50/jean50/87
-#EXTINF:-1 tvg-id="HBO2.lat" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
+#EXTINF:-1 tvg-id="HBO 2.pe" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
 http://gotv.vip:8880/jean50/jean50/88
-#EXTINF:-1 tvg-id="HBOPlus.lat" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/120063.ts
-#EXTINF:-1 tvg-id="HBOXtreme.lat" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
 #EXTINF:-1 tvg-id="AMC.lat" tvg-name="LA: AMC" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AMC_2013.png" group-title="Cine",AMC
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
