@@ -45,13 +45,13 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312769
 #EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-name="LA: Cartoon Network" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/132707
-#EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="NICKELODEON.pe" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312813
 #EXTINF:-1 tvg-id="DisneyChannel.lat" tvg-name="LA: Disney Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Channel_2019.png" group-title="Infantil",Disney Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312774
 #EXTINF:-1 tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp" group-title="Infantil",Disney Jr
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312775
-#EXTINF:-1 tvg-id="NickJr.lat" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
+#EXTINF:-1 tvg-id="NICK JR OTT.pe" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312814
 #EXTINF:-1 tvg-id="CNN.lat" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/90324.ts
@@ -83,7 +83,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NasaTVMedia.wl" tvg-name="INT: NASA TV Media" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="StarChannel.lat" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
 #EXTINF:-1 tvg-id="TNT.lat" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
 http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
