@@ -27,7 +27,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330749
 https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/antares-tv-peru.webp" group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.lat" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-id="AXN.pe" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
 #EXTINF:-1 tvg-id="TNT SERIES HD.pe" tvg-name="LA: TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.png" group-title="Entretenimiento",TNT Series
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
@@ -41,9 +41,9 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/141452.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/70905
 #EXTINF:-1 tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
-#EXTINF:-1 tvg-id="DiscoveryKids.lat" tvg-name="LA: Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.pe" tvg-name="LA: Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312769
-#EXTINF:-1 tvg-id="CartoonNetwork.lat" tvg-name="LA: Cartoon Network" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network HD.pe" tvg-name="LA: Cartoon Network" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/132707
 #EXTINF:-1 tvg-id="Nickelodeon.lat" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312813
@@ -73,11 +73,11 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/119683.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
 #EXTINF:-1 tvg-id="NatGeo.lat" tvg-name="LA: National Geographic" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp" group-title="Cultura",National Geographic
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53489
-#EXTINF:-1 tvg-id="AnimalPlanet.lat" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD.pe" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312747
-#EXTINF:-1 tvg-id="DiscoveryChannel.lat" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL.pe" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312768
-#EXTINF:-1 tvg-id="DiscoveryID.lat" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY.pe" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 #EXTINF:-1 tvg-id="NasaTVPublic.wl" tvg-name="INT: NASA TV Public" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/NASA_logo.webp" group-title="Cultura",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
