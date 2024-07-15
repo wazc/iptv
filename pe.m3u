@@ -8,7 +8,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilte
 #EXTINF:-1 tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
 http://oaktvpro.club:8080/live/RaulTapia/Raul2023/3416.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
@@ -95,7 +95,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
 #EXTINF:-1 tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
-#EXTINF:-1 tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/FX.png" group-title="Cine",FX
+#EXTINF:-1 tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
 http://gotv.vip:8880/jean50/jean50/80
 #EXTINF:-1 tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
 http://gotv.vip:8880/jean50/jean50/251
