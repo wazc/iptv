@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
+
 #EXTM3U
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="PE: Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
