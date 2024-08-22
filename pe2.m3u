@@ -4,19 +4,14 @@
 
 #EXTINF:-1 tvg-chno="126" tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-#EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp" group-title="Cine",Warner
-http://gotv.vip:8880/jean50/jean50/366
 #EXTINF:-1 tvg-chno="216" tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
-#EXTINF:-1 tvg-chno="217" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
-http://gotv.vip:8880/jean50/jean50/80
 #EXTINF:-1 tvg-chno="218" tvg-id="UNIVERSAL CHANNEL.pe" tvg-name="LA: Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106105.ts
 #EXTINF:-1 tvg-chno="222" tvg-id="Entertainment.lat" tvg-name="LA: E! Entertainment" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp" group-title="Entretenimiento",E! Entertainment
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106004.ts
 #EXTINF:-1 tvg-chno="502" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
 http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
-
 #EXTINF:-1 tvg-chno="510" tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
 http://gotv.vip:8880/jean50/jean50/251
 #EXTINF:-1 tvg-chno="513" tvg-id="DHE.lat" tvg-name="LA: DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
@@ -29,8 +24,6 @@ http://gotv.vip:8880/jean50/jean50/88
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/120063.ts
 #EXTINF:-1 tvg-chno="542" tvg-id="HBO XTREME.pe" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
-#EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Premiere_2021.webp" group-title="Cine",Universal Premiere
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106109.ts
 #EXTINF:-1 tvg-chno="572" tvg-id="UniversalCinema.lat" tvg-name="LA: Universal Cinema" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Cinema_2021.webp" group-title="Cine",Universal Cinema
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106107.ts
 #EXTINF:-1 tvg-chno="695" tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
