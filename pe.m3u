@@ -15,8 +15,6 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/142706.ts
 #EXTINF:-1 tvg-chno="13" tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
-#EXTINF:-1 tvg-chno="14" tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133713.ts
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="34" tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
@@ -98,8 +96,6 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106109.ts
 #EXTINF:-1 tvg-chno="572" tvg-id="UniversalCinema.lat" tvg-name="LA: Universal Cinema" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Cinema_2021.webp" group-title="Cine",Universal Cinema
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106107.ts
-#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133709.ts
 #EXTINF:-1 tvg-chno="620" tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
 http://gotv.vip:8880/jean50/jean50/350
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
