@@ -11,7 +11,7 @@ https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Peru",ATV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
 #EXTINF:-1 tvg-chno="10" tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/142706.ts
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 #EXTINF:-1 tvg-chno="13" tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
@@ -44,6 +44,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/70905
 #EXTINF:-1 tvg-chno="228" tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312808
+#EXTINF:-1 tvg-chno="231" tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.png" group-title="Novelas",Telemundo Internacional
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8351
 #EXTINF:-1 tvg-chno="304" tvg-id="Cartoon Network HD.pe" tvg-name="LA: Cartoon Network" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cartoon_Network_2010.png" group-title="Infantil",Cartoon Network
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/132707
 #EXTINF:-1 tvg-chno="308" tvg-id="NICKELODEON.pe" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
@@ -64,14 +66,26 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-chno="509" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
-#EXTINF:-1 tvg-chno="632" tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
+#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
+#EXTINF:-1 tvg-chno="610" tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
+#EXTINF:-1 tvg-chno="612" tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
+#EXTINF:-1 tvg-chno="613" tvg-id="DirectvSports+.lat" tvg-name="LA: Directv Sports +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_plus_2022.webp" group-title="Deportes",Directv Sports +
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
+#EXTINF:-1 tvg-chno="621" tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-iV70F6FNQ3slio8p83kBM/ts
+#EXTINF:-1 tvg-chno="691" tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
-#EXTINF:-1 tvg-chno="633" tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-chno="692" tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339661
-#EXTINF:-1 tvg-chno="634" tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-chno="693" tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339663
 #EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
+#EXTINF:-1 tvg-chno="704" tvg-id="CNN ESPAÑOL.pe" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
+http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/10252
 #EXTINF:-1 tvg-chno="730" tvg-id="NatGeo.lat" tvg-name="LA: National Geographic" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp" group-title="Cultura",National Geographic
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53489
 #EXTINF:-1 tvg-chno="732" tvg-id="DISCOVERY CHANNEL.pe" tvg-name="LA: Discovery Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Channel_2019.png" group-title="Cultura",Discovery Channel
