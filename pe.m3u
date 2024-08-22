@@ -10,6 +10,8 @@ https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfi
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Peru",ATV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
+#EXTINF:-1 tvg-chno="10" tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/142706.ts
 #EXTINF:-1 tvg-chno="13" tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
@@ -76,6 +78,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53489
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312768
 #EXTINF:-1 tvg-chno="734" tvg-id="ANIMAL PLANET HD.pe" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312747
+#EXTINF:-1 tvg-chno="742" tvg-id="HistoryChannel.lat" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L4EB7ENA1Gt5RUzPtnfQdJ8/ts
 #EXTINF:-1 tvg-chno="744" tvg-id="HISTORY 2.pe" tvg-name="LA: History 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History2_logo.png" group-title="Cultura",History 2
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
 
