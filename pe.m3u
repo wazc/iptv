@@ -28,6 +28,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-chno="99" tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-chno="620" tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
+http://gotv.vip:8880/jean50/jean50/350
 #EXTINF:-1 tvg-chno="725" tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
 #EXTINF:-1 tvg-chno="740" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
@@ -38,6 +40,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
 #EXTINF:-1 tvg-chno="745" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
 http://gotv.vip:8880/jean50/jean50/80
+#EXTINF:-1 tvg-chno="751" tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
+http://gotv.vip:8880/jean50/jean50/251
 #EXTINF:-1 tvg-chno="756" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 
@@ -96,8 +100,6 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-id="CINECANAL HD.pe" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
 
-#EXTINF:-1 tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
-http://gotv.vip:8880/jean50/jean50/251
 #EXTINF:-1 tvg-id="SONY.pe" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312825
 #EXTINF:-1 tvg-id="DHE.lat" tvg-name="LA: DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
@@ -106,7 +108,6 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148776.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110081
 #EXTINF:-1 tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-
 #EXTINF:-1 tvg-id="Golden.lat" tvg-name="LA: Golden" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Golden_2020.webp" group-title="Cine",Golden
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312797
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-name="LA: Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
@@ -125,8 +126,6 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148813.ts
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133713.ts
 #EXTINF:-1 tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133709.ts
-#EXTINF:-1 tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
-http://gotv.vip:8880/jean50/jean50/350
 #EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
 http://581828957753778593.ofgh525.xyz:80/play/vi222796/bqMYQPhEuHju/778593.ts
 #EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
