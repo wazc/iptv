@@ -28,7 +28,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-chno="99" tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 
-
+#EXTINF:-1 tvg-chno="126" tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
 #EXTINF:-1 tvg-chno="202" tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
 #EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp" group-title="Cine",Warner
@@ -103,6 +104,18 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133709.ts
 http://gotv.vip:8880/jean50/jean50/350
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339647
+#EXTINF:-1 tvg-chno="631" tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
+http://581828957753778593.ofgh525.xyz:80/play/vi222796/bqMYQPhEuHju/778593.ts
+#EXTINF:-1 tvg-chno="632" tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
+#EXTINF:-1 tvg-chno="633" tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339661
+#EXTINF:-1 tvg-chno="634" tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339663
+#EXTINF:-1 tvg-chno="635" tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339646
+#EXTINF:-1 tvg-chno="636" tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
 #EXTINF:-1 tvg-chno="704" tvg-id="CNN ESPAÑOL.pe" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/90324.ts
 #EXTINF:-1 tvg-chno="730" tvg-id="NatGeo.lat" tvg-name="LA: National Geographic" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/National_Geographic_Society.webp" group-title="Cultura",National Geographic
@@ -117,34 +130,7 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/119683.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
 
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="SyFy.lat" tvg-name="LA: SyFy" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Syfy_2017.png" group-title="Cine",SyFy
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110081
-#EXTINF:-1 tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-
-#EXTINF:-1 tvg-id="ZonaMusic1.lat" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
+#EXTINF:-1 tvg-chno="901" tvg-id="ZonaMusic1.lat" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312830
-#EXTINF:-1 tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
+#EXTINF:-1 tvg-chno="902" tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148813.ts
-
-#EXTINF:-1 tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
-http://581828957753778593.ofgh525.xyz:80/play/vi222796/bqMYQPhEuHju/778593.ts
-#EXTINF:-1 tvg-id="DAZN1.lat" tvg-name="LA: DAZN 1 PL" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DAZN_2019_logo.png" group-title="Deportes",DAZN 1 PL
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110360
-#EXTINF:-1 tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
-#EXTINF:-1 tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339661
-#EXTINF:-1 tvg-id="FoxSports3.lat" tvg-name="LA: Fox Sports 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_3_2023.webp" group-title="Deportes",Fox Sports 3
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339663
-#EXTINF:-1 tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339646
