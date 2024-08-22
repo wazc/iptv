@@ -16,8 +16,6 @@ http://gotv.vip:8880/jean50/jean50/80
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106105.ts
 #EXTINF:-1 tvg-chno="222" tvg-id="Entertainment.lat" tvg-name="LA: E! Entertainment" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp" group-title="Entretenimiento",E! Entertainment
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106004.ts
-#EXTINF:-1 tvg-chno="231" tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Telemundo_2018.png" group-title="Novelas",Telemundo Internacional
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/141452.ts
 #EXTINF:-1 tvg-chno="502" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
 http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
 
@@ -37,18 +35,10 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106109.ts
 #EXTINF:-1 tvg-chno="572" tvg-id="UniversalCinema.lat" tvg-name="LA: Universal Cinema" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Cinema_2021.webp" group-title="Cine",Universal Cinema
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106107.ts
-#EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133709.ts
-#EXTINF:-1 tvg-chno="620" tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
-http://gotv.vip:8880/jean50/jean50/350
-#EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
+#EXTINF:-1 tvg-chno="694" tvg-id="TyCSports.lat" tvg-name="LA: TyC Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TyC_Sports.webp" group-title="Deportes",TyC Sports
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339647
-#EXTINF:-1 tvg-chno="631" tvg-id="ESPNPremium.lat" tvg-name="LA: ESPN Premium" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_Premium_2022.webp" group-title="Deportes",ESPN Premium
-http://581828957753778593.ofgh525.xyz:80/play/vi222796/bqMYQPhEuHju/778593.ts
-#EXTINF:-1 tvg-chno="635" tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-chno="695" tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339646
-#EXTINF:-1 tvg-chno="704" tvg-id="CNN ESPAÑOL.pe" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/90324.ts
 
 
 #EXTINF:-1 tvg-chno="902" tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
