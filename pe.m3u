@@ -76,6 +76,18 @@ http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L5bUJAwSpnsHLc5nnckDJpg/ts
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5LxvzNzX9zbZzn6IuQs8njM8/ts
 #EXTINF:-1 tvg-chno="621" tvg-id="ESPN.lat" tvg-name="LA: ESPN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN.png" group-title="Deportes",ESPN
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L-iV70F6FNQ3slio8p83kBM/ts
+#EXTINF:-1 tvg-chno="622" tvg-id="ESPN2.lat" tvg-name="LA: ESPN 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN2_2006.png" group-title="Deportes",ESPN 2
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L1zlcCrJTs424mZtl70EaAg/ts
+#EXTINF:-1 tvg-chno="623" tvg-id="ESPN3.lat" tvg-name="LA: ESPN 3" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Espn3.webp" group-title="Deportes",ESPN 3
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5Ly7qCt0mfC7C03tY-GYu6vY/ts
+#EXTINF:-1 tvg-chno="624" tvg-id="ESPN4.lat" tvg-name="LA: ESPN 4" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_4.png" group-title="Deportes",ESPN 4
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2K1ygUWY7E-ImbyX8_2Kc0/ts
+#EXTINF:-1 tvg-chno="625" tvg-id="ESPN5.lat" tvg-name="LA: ESPN 5" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_5.png" group-title="Deportes",ESPN 5
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2rkFJk9tyvyG4RgStzu7Hk/ts
+#EXTINF:-1 tvg-chno="626" tvg-id="ESPN6.lat" tvg-name="LA: ESPN 6" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_6.png" group-title="Deportes",ESPN 6
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L0K2rftnezRlylEPvLeA0IA/ts
+#EXTINF:-1 tvg-chno="627" tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
+http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2ogQk3gojZnt5MjotbT-n4/ts
 #EXTINF:-1 tvg-chno="691" tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339659
 #EXTINF:-1 tvg-chno="692" tvg-id="FoxSports2.lat" tvg-name="LA: Fox Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2_2023.webp" group-title="Deportes",Fox Sports 2
