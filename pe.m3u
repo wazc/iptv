@@ -36,6 +36,8 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
+#EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp" group-title="Cine",Warner
+http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312756
 #EXTINF:-1 tvg-chno="208" tvg-id="SONY.pe" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
@@ -46,6 +48,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
 #EXTINF:-1 tvg-chno="213" tvg-id="TNT SERIES HD.pe" tvg-name="LA: TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.png" group-title="Entretenimiento",TNT Series
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
+#EXTINF:-1 tvg-chno="217" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
+http://200.115.96.66:4000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-chno="223" tvg-id="INVESTIGATION DISCOVERY.pe" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 #EXTINF:-1 tvg-chno="226" tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png" group-title="Novelas",Canal Estrellas
@@ -80,6 +84,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 http://168.181.122.234:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-chno="534" tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
 http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Premiere_2021.webp" group-title="Cine",Universal Premiere
+http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/liga-1-peru-logo.png" group-title="Deportes",Liga 1 MAX
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
 #EXTINF:-1 tvg-chno="610" tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2022.webp" group-title="Deportes",Directv Sports
