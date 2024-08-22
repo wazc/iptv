@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
 
 #EXTM3U
-#EXTINF:-1 tvg-chno="10" tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/RPP_2018.png" group-title="Peru",RPP TV
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/142706.ts
 #EXTINF:-1 tvg-chno="14" tvg-id="GolPeru.pe" tvg-name="PE: GolPeru" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Gol_Peru_2019.png" group-title="Deportes",GolPeru
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/133713.ts
 
@@ -51,8 +49,7 @@ http://581828957753778593.ofgh525.xyz:80/play/vi222796/bqMYQPhEuHju/778593.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339646
 #EXTINF:-1 tvg-chno="704" tvg-id="CNN ESPAÑOL.pe" tvg-name="INT: CNN Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/CNN_en_Español_2014.png" group-title="Noticias",CNN Español
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/90324.ts
-#EXTINF:-1 tvg-chno="742" tvg-id="HISTORY CHANNEL.pe" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/119683.ts
+
 
 #EXTINF:-1 tvg-chno="902" tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148813.ts
