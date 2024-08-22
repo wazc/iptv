@@ -21,12 +21,12 @@ https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=v
 #EXTINF:-1 tvg-chno="34" tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 
-#EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png" group-title="Peru",Agro TV
+#EXTINF:-1 tvg-chno="97" tvg-id="AgroTV.pe" tvg-name="PE: Agro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1280px-TV_Agro_logo.svg.png" group-title="Peru",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
-https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/antares-tv-peru.webp" group-title="Peru",Antares TV
+#EXTINF:-1 tvg-chno="98" tvg-id="AntaresTV.pe" tvg-name="PE: Antares TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/antares-tv-peru.webp" group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-chno="99" tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="102" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
 http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
@@ -34,11 +34,22 @@ http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
 #EXTINF:-1 tvg-chno="105" tvg-id="AMC HD.pe" tvg-name="LA: AMC" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AMC_2013.png" group-title="Cine",AMC
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
+#EXTINF:-1 tvg-chno="109" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
+http://gotv.vip:8880/jean50/jean50/80
 #EXTINF:-1 tvg-chno="152" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 
 #EXTINF:-1 tvg-chno="725" tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
+#EXTINF:-1 tvg-chno="830" tvg-id="HBO HD.pe" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
+http://gotv.vip:8880/jean50/jean50/87
+#EXTINF:-1 tvg-chno="842" tvg-id="HBO 2.pe" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
+http://gotv.vip:8880/jean50/jean50/88
+#EXTINF:-1 tvg-chno="844" tvg-id="HBO PLUS.pe" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/120063.ts
+#EXTINF:-1 tvg-chno="840" tvg-id="HBO XTREME.pe" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
+http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
+
 
 #EXTINF:-1 tvg-id="AXN.pe" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
@@ -84,8 +95,7 @@ http://gotv.vip:8880/jean50/jean50/366
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-id="CINECANAL HD.pe" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
-#EXTINF:-1 tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
-http://gotv.vip:8880/jean50/jean50/80
+
 #EXTINF:-1 tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
 http://gotv.vip:8880/jean50/jean50/251
 #EXTINF:-1 tvg-id="SONY.pe" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
@@ -96,14 +106,7 @@ http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148776.ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/110081
 #EXTINF:-1 tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-#EXTINF:-1 tvg-id="HBO HD.pe" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
-http://gotv.vip:8880/jean50/jean50/87
-#EXTINF:-1 tvg-id="HBO 2.pe" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
-http://gotv.vip:8880/jean50/jean50/88
-#EXTINF:-1 tvg-id="HBO PLUS.pe" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/120063.ts
-#EXTINF:-1 tvg-id="HBO XTREME.pe" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
+
 #EXTINF:-1 tvg-id="Golden.lat" tvg-name="LA: Golden" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Golden_2020.webp" group-title="Cine",Golden
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312797
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL.pe" tvg-name="LA: Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
