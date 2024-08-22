@@ -34,10 +34,11 @@ http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
 #EXTINF:-1 tvg-chno="105" tvg-id="AMC HD.pe" tvg-name="LA: AMC" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AMC_2013.png" group-title="Cine",AMC
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
+#EXTINF:-1 tvg-chno="152" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
+http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 
 #EXTINF:-1 tvg-chno="725" tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
 http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
-
 
 #EXTINF:-1 tvg-id="AXN.pe" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
@@ -83,8 +84,6 @@ http://gotv.vip:8880/jean50/jean50/366
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-id="CINECANAL HD.pe" tvg-name="LA: Cinecanal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinecanal_2018.png" group-title="Cine",Cinecanal
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
-#EXTINF:-1 tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Cinemax_2011.png" group-title="Cine",Cinemax
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 #EXTINF:-1 tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
 http://gotv.vip:8880/jean50/jean50/80
 #EXTINF:-1 tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
