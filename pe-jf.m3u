@@ -13,8 +13,6 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 #EXTINF:-1 tvg-chno="13" tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Global_2019.png" group-title="Peru",Global TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
-#EXTINF:-1 tvg-chno="14" tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/golperu.png", GOL PERU | PE
-http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Willax_TV.png" group-title="Peru",Willax TV
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="32" tvg-id="ATV+.pe" tvg-name="PE: ATV +" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_plus_2018_2.png" group-title="Peru",ATV +
