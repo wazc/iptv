@@ -37,6 +37,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
 #EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp" group-title="Cine",Warner
+#EXTVLCOPT:audio-track=1
 http://168.181.122.234:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-chno="207" tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312756
