@@ -33,7 +33,6 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-chno="99" tvg-id="ViaAltomayo.pe" tvg-name="PE: Via Altomayo" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Via_Altomayo.png" group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 
-
 #EXTINF:-1 tvg-chno="202" tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
 #EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" audio-track=1 tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Warner_2018.webp" group-title="Cine",Warner
@@ -132,7 +131,6 @@ http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L4EB7ENA1Gt5RUzPtnfQdJ8/ts
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
 #EXTINF:-1 tvg-chno="770" tvg-id="DW.lat" tvg-name="INT: DW Español" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Deutsche_W_2012.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
-
 
 #EXTINF:-1 tvg-chno="901" tvg-id="ZonaMusic1.lat" tvg-name="LA: Zona Music 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 1
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312830
