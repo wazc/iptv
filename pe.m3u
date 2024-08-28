@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
 #EXTM3U
-#EXTINF:-1 tvg-chno="2" tvg-id="LATINA.pe" tvg-name="PE: Latina" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Latina_TV_2022.png" group-title="Peru",Latina
+#EXTINF:-1 tvg-chno="2" tvg-id="LATINA.pe" tvg-name="PE: Latina" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Latina.png" group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
