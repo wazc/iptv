@@ -5,7 +5,7 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-chno="3" tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
-https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://200.60.124.19:29000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="7" tvg-id="TV PERU HD.pe" tvg-name="PE: TVPeru" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="Peru",TVPeru
@@ -107,6 +107,8 @@ http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2rkFJk9tyvyG4RgStzu7Hk/ts
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L0K2rftnezRlylEPvLeA0IA/ts
 #EXTINF:-1 tvg-chno="627" tvg-id="ESPN7.lat" tvg-name="LA: ESPN 7" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ESPN_7.png" group-title="Deportes",ESPN 7
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L2ogQk3gojZnt5MjotbT-n4/ts
+#EXTINF:-1 tvg-chno="628" tvg-id="ESP HD" tvg-name="ESPN Premium (HD)" group-title="Deportes Extranjeros" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/10/espnpremium.jpg", ESPN PREMIUM HD | ARG
+http://187.102.208.83:50000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-chno="629" tvg-id="TyCSports.ar" tvg-name="TyC Sports" group-title="Deportes" tvg-logo="https://cdn6.aptoide.com/imgs/8/5/b/85b6f639ad769d64a08e82d7a8079fa8_icon.png", TyC SPORTS
 http://45.232.176.17:8000/play/a02g
 #EXTINF:-1 tvg-chno="691" tvg-id="FoxSports1.lat" tvg-name="LA: Fox Sports 1" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Fox_Sports_2023.png" group-title="Deportes",Fox Sports 1
