@@ -53,6 +53,8 @@ http://200.115.96.66:4000/play/a0he/index.m3u8
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 #EXTINF:-1 tvg-chno="226" tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Las_Estrellas_2016.png" group-title="Novelas",Canal Estrellas
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/70905
+#EXTINF:-1 tvg-chno="227" tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="file:///data/appdata/iptv/imagenes/Logo_tlnovelas_feb2019.png", TL NOVELAS HD
+http://181.78.8.90:16123/play/ch45
 #EXTINF:-1 tvg-chno="228" tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312808
 #EXTINF:-1 tvg-chno="229" tvg-id="H&H.lat" tvg-name="LA: H&H" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_H&H_2022.webp" group-title="Entretenimiento",H&H
