@@ -4,7 +4,7 @@
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="lch3298" tvg-name="M DEPORTES HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/movistar-deportes.png", Movistar Deportes
 http://200.60.124.19:29000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="PE: America" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AmericaTV_2016.png" group-title="Peru",America
+#EXTINF:-1 tvg-chno="4" tvg-id="AMERICA TELEVISION HD.pe" tvg-name="PE: America" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png" group-title="Peru",America
 http://200.60.124.19:29000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-name="PE: Panamericana" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Panamericana_TV_2021.png" group-title="Peru",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
@@ -22,7 +22,7 @@ http://200.60.124.19:29000/play/a00b/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="32" tvg-id="ATV+.pe" tvg-name="PE: ATV +" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ATV%2B.png" group-title="Peru",ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Peru",Exitosa TV
+#EXTINF:-1 tvg-chno="34" tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg" group-title="Peru",Exitosa TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330743
 #EXTINF:-1 tvg-chno="96" tvg-id="Karibeña.pe" tvg-name="PE: Karibeña TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Karibe%C3%B1aTV2018.png/revision/latest/scale-to-width-down/1200?cb=20190308214115" group-title="Peru",Karibeña TV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330749
@@ -43,11 +43,11 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312756
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312825
 #EXTINF:-1 tvg-chno="209" tvg-id="AXN.pe" tvg-name="LA: AXN" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png" group-title="Entretenimiento",AXN
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
-#EXTINF:-1 tvg-chno="210" tvg-id="AMC HD.pe" tvg-name="LA: AMC" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AMC_2013.png" group-title="Cine",AMC
+#EXTINF:-1 tvg-chno="210" tvg-id="AMC HD.pe" tvg-name="LA: AMC" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/AMC.jpeg" group-title="Cine",AMC
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
 #EXTINF:-1 tvg-chno="213" tvg-id="TNT SERIES HD.pe" tvg-name="LA: TNT Series" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Tnt-series-latin-america.png" group-title="Entretenimiento",TNT Series
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
-#EXTINF:-1 tvg-chno="217" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/FX.png" group-title="Cine",FX
+#EXTINF:-1 tvg-chno="217" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/FX.jpg" group-title="Cine",FX
 http://200.115.96.66:4000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-chno="223" tvg-id="INVESTIGATION DISCOVERY.pe" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
