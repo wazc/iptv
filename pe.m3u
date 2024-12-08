@@ -85,7 +85,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
 http://168.181.122.234:8000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-chno="534" tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbofamily.png", HBO FAMILY HD
 http://168.181.122.234:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Premiere_2021.webp" group-title="Cine",Universal Premiere
+#EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png" group-title="Cine",Universal Premiere
 http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/liga-1-max.png" group-title="Deportes",Liga 1 MAX
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
