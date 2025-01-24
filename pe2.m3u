@@ -1,34 +1,1981 @@
-#EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/perupremium.xml.gz"
+#EXTINF:-1 tvg-id="lch6490" tvg-name="HBO" group-title="Peliculas & Series" tvg-logo="https://logowik.com/content/uploads/images/hbo.jpg", HBO HD
+http://170.233.192.234:8112/play/017
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
+http://200.59.188.3:8000/play/a03r
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO 
+http://190.2.212.209:8050/play/a0mv
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO 
+http://190.61.42.218:9000/play/a01m
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
+http://181.204.79.182:8202/play/a01z
+#EXTINF:-1 group-title="© HBO+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png",HBO
+http://200.60.124.19:29000/play/a071/index.m3u8
+#EXTINF:-1,HBO
+http://200.59.188.3:8000/play/a0ku
+#EXTINF:-1,HBO
+http://200.59.188.3:8000/play/a0ks
+#EXTINF:-1,HBO
+http://45.169.163.83:8000/play/a18p
+#EXTINF:-1,HBO
+http://38.41.8.1:8000/play/a05u
+#EXTINF:-1 tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-2.png", HBO 2 HD
+http://181.204.79.182:8202/play/a02u
+#EXTINF:-1 tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-2.png", HBO 2 HD
+http://45.169.163.83:8000/play/a19b
+#EXTINF:-1,HBO2 HD
+http://179.1.48.57:9000/play/a04m/index.m3u8
+#EXTINF:-1,HBO 2
+http://170.233.192.234:8112/play/021
+#EXTINF:-1,HBO2 HD
+http://190.60.49.244:4000/play/a04z
+#EXTINF:-1,HBO2 HD
+http://181.78.82.6:46090/play/a01t/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://217.26.191.85:8126/play/a0de/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://38.41.8.1:8000/play/a05u
+#EXTINF:-1,HBO2 HD
+http://200.59.188.3:8000/play/a0ks
+#EXTINF:-1,HBO 2
+http://38.41.8.1:8000/play/a05h
+#EXTINF:-1,HBO2 HD
+http://217.26.191.112:8126/play/a0de/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.102.246.93:9005/play/a01g
+#EXTINF:-1,HBO2 HD
+http://190.61.42.218:9000/play/a00v
+#EXTINF:-1,HBO XTREME
+http://181.204.79.182:8202/play/a02w
+#EXTINF:-1,HBO XTREME
+http://45.177.179.227:8000/play/a02f/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.189.148.254:8000/play/a023
+#EXTINF:-1,HBO XTREME
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.169.163.83:8000/play/a18s
+#EXTINF:-1,HBO XTREME
+http://181.78.106.127:9000/play/ca069/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://170.233.192.234:8112/play/020
+#EXTINF:-1,HBO XTREME
+http://217.26.191.112:8126/play/a0dr/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://38.41.8.1:8000/play/a05j
+#EXTINF:-1,HBO XTREME
+http://179.1.48.57:9000/play/a04l/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://181.204.79.182:8202/play/a02v
+#EXTINF:-1,HBO plus
+http://170.233.192.234:8112/play/019
+#EXTINF:-1,HBO +
+http://38.41.8.1:8000/play/a05i
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://181.204.79.182:8202/play/a02x
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://45.169.163.83:8000/play/a1a6
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://170.233.192.234:8112/play/018
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://181.205.130.194:4000/play/a0dr
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://38.41.8.1:8000/play/a05k
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://200.59.188.3:8000/play/a06o
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/DrSp4rrow/notty-iptv/main/Peru/hbo-family.png", HBO FAMILY HD
+http://217.26.191.112:8126/play/a0dq/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://181.143.230.202:8000/play/a02p/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://201.230.110.204:8000/play/a0c0/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://38.180.133.31:8000/play/a0t4/index.m3u8
+#EXTINF:-1,TLC
+http://181.205.130.194:4000/play/a07p
+#EXTINF:-1,TCM
+http://170.233.192.234:8112/play/110
+#EXTINF:-1,TCM
+http://38.41.8.1:8000/play/a04x
+#EXTINF:-1,TCM
+http://181.204.79.182:8202/play/a00k
+#EXTINF:-1,TCM
+http://181.205.130.194:4000/play/a06l
+#EXTINF:-1,TCM
+http://200.60.124.19:29000/play/a01s
+#EXTINF:-1,TCM
+http://45.169.163.83:8000/play/a1ar
+#EXTINF:-1, ID
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,GOLDEN
+http://179.1.48.57:9000/play/a01a/index.m3u8
+#EXTINF:-1,GOLDEN
+http://38.44.109.41:8003/play/a001
+#EXTINF:-1,GOLDEN
+http://45.184.87.142:8000/play/a04u
+#EXTINF:-1,Golden
+http://181.78.106.127:9000/play/ca076/index.m3u8
+#EXTINF:-1,Golden Edge
+http://181.78.106.127:9000/play/ca078/index.m3u8
+#EXTINF:-1,GOLDEN EDGE
+http://38.44.109.41:8003/play/a002
+#EXTINF:-1,GOLDEN EDGE
+http://190.107.20.43:6004/play/a042
+#EXTINF:-1,Golden plus
+http://38.187.2.125:8000/play/a00y
+#EXTINF:-1,Golden plus
+http://181.78.86.226:8086/play/a06b
+#EXTINF:-1,Golden plus
+http://186.148.184.65:8000/play/a02w
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDENPREMIERE
+http://45.184.87.142:8000/play/a03a
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD
+http://200.125.170.122:8000/play/a00l
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere HD
+http://190.61.117.35:8000/play/a036
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD
+http://190.61.117.35:8000/play/a037
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",GOLDEN PREMIERE 2
+http://38.137.217.169:8000/play/a064
+#EXTINF:-1 group-title="© Golden+" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/360px-Canal_Golden_logo.svg.png",Golden Premiere 2 HD
+http://200.125.170.121:8000/play/a00m
+#EXTINF:-1, Super Cable
+http://iptv.streamhispanatv.net:8080/playgt/playgt2023/259
+#EXTINF:-1,Cinemax
+http://181.204.79.182:8202/play/a020
+#EXTINF:-1,Cinemax
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://168.90.14.114:8282/play/a07j
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",Cinemax HD 
+http://181.233.168.5:8282/play/a07j
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",CineMax 
+http://45.5.119.97:9000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",Cinemax  2
+http://38.44.109.41:8003/play/a023/index.m3u8
+#EXTINF:-1 group-title="© Cinemax" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MaxGO.svg/125px-MaxGO.svg.png",CineMax  
+http://45.5.119.43:4000/play/a0il/index.m3u8
+#EXTINF:-1,CineMax
+http://38.180.133.31:8000/play/a0qb/index.m3u8
+#EXTINF:-1,cinemax
+http://45.169.163.83:8000/play/a18j
+#EXTINF:-1, CINEMAX
+http://181.78.106.127:9000/play/ca079/index.m3u8
+#EXTINF:-1,03.Cinemax
+http://200.60.124.19:29000/play/a025
+#EXTINF:-1 tvg-name="138 Cinemax Latino HD" group-title="Películas",CINEMAX
+http://nxt.plus:8080/jesus01/jesus01/59083
+#EXTINF:-1, CINEMAX
+http://190.60.49.244:4000/play/a075
+#EXTINF:-1, CINEMAX
+http://190.2.212.209:8050/play/a0mw
+#EXTINF:-1,Cinemax
+http://45.169.163.83:8000/play/a18j
+#EXTINF:-1,Cinemax
+http://38.41.8.1:8000/play/a05v
+#EXTINF:-1,Cinemax
+http://200.59.188.3:8000/play/a03s
+#EXTINF:-1,Cinemax
+http://170.233.192.234:8112/play/112
+#EXTINF:-1,LATINA
+http://190.61.42.218:9000/play/a067
+#EXTINF:-1,Cinecanal
+http://181.204.79.182:8202/play/a00d
+#EXTINF:-1,Cinecanal
+http://170.233.192.234:8112/play/107
+#EXTINF:-1,Cinecanal
+http://181.205.130.194:4000/play/a06e
+#EXTINF:-1,cinecanalhd
+http://45.169.163.83:8000/play/a18i
+#EXTINF:-1 tvg-name="129" group-title="Películas",CINECANAL HD
+http://nxt.plus:8080/jesus01/jesus01/2833
+#EXTINF:-1,Cinecanal
+http://45.169.163.83:8000/play/a1ai
+#EXTINF:-1,CineCanal
+http://38.180.133.31:8000/play/a0qd/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://38.180.133.31:8000/play/a0p4/index.m3u8
+#EXTINF:-1,Paramount
+http://170.233.192.234:8112/play/099
+#EXTINF:-1, PARAMOUNT
+http://181.78.106.127:9000/play/ca082/index.m3u8
+#EXTINF:-1 group-title="© Paramount" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Disambig_gray.svg/30px-Disambig_gray.svg.png",PARAMOUNT NETWORK - ES
+http://79.117.39.146:8000/play/a0ai
+#EXTINF:-1, PARAMOUNT
+http://45.190.187.105:58092/play/a05h
+#EXTINF:-1, PARAMOUNT
+http://45.5.119.97:9000/play/a07b/index.m3u8
+#EXTINF:-1, PARAMOUNT
+http://200.125.170.120:8000/play/a060
+#EXTINF:-1,Paramount
+http://190.61.42.218:9000/play/a01n
+#EXTINF:-1,Paramount
+http://217.26.191.112:8126/play/a0db/index.m3u8
+#EXTINF:-1,Paramount
+http://45.169.163.83:8000/play/a192
+#EXTINF:-1,Paramout
+http://179.1.48.57:9000/play/a01y/index.m3u8
+#EXTINF:-1,Telemundo
+http://190.61.42.218:9000/play/a01l
+#EXTINF:-1,DHE
+http://217.26.191.112:8126/play/a0dm/index.m3u8
+#EXTINF:0,AMC HD
+http://181.205.130.194:4000/play/a09j
+#EXTINF:-1,AMC
+http://38.180.133.31:8000/play/a0nj/index.m3u8
+#EXTINF:-1,AMC
+http://170.233.192.234:8112/play/116
+#EXTINF:-1,amc
+http://45.169.163.83:8000/play/a18d
+#EXTINF:-1, AMC
+http://181.78.106.127:9000/play/ca080/index.m3u8
+#EXTINF:-1,AMC
+http://179.1.48.57:9000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD 
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD 
+http://168.90.14.116:8282/play/a005
+#EXTINF:-1 group-title="© Warner Bros" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros._2023_%28Print%29.svg/100px-Warner_Bros._2023_%28Print%29.svg.png",Warner Channel HD
+http://170.233.192.234:8112/play/081
+#EXTINF:-1,Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,Warner
+http://181.204.79.182:8202/play/a01j
+#EXTINF:-1,warnerhd
+http://45.169.163.83:8000/play/a199
+#EXTINF:-1,Warner
+http://38.180.133.31:8000/play/a0op/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://38.180.133.31:8000/play/a0sz/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://45.169.39.162:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸",WARNER HD
+http://168.181.122.234:8000/play/a00w/index.m3u8
+#EXTINF:-1,07.1Warner
+http://200.60.124.19:29000/play/a013
+#EXTINF:-1,07.1Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,07.1Warner
+http://45.169.163.83:8000/play/a19o
+#EXTINF:-1,07.1Warner
+http://190.60.32.178:8178/play/a0az/index.m3u8
+#EXTINF:-1,07.1Warner
+http://191.52.212.81:8000/play/a008
+#EXTINF:-1,07.1Warner
+http://190.2.212.209:8050/play/a0nl
+#EXTINF:-1,Warner
+http://181.78.106.127:9000/play/ca071/index.m3u8
+#EXTINF:-1,07.8AXN
+http://181.204.79.182:8202/play/a022
+#EXTINF:-1,axnhd
+http://45.169.163.83:8000/play/a18g
+#EXTINF:-1,07.8AXN
+http://200.60.124.19:29000/play/a027
+#EXTINF:-1 tvg-name="AXN Latino America" ​​tvg-logo="" group-title="Variedades",AXN HD
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1,AXN HD
+http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh/index.m3u8
+#EXTINF:-1,AXN
+http://179.1.48.57:9000/play/a03m/index.m3u8
+#EXTINF:-1,AXN
+http://38.41.8.1:8000/play/a05x
+#EXTINF:-1,AXN
+http://170.233.192.234:8112/play/087
+#EXTINF:-1,AXN
+http://181.78.106.127:9000/play/ca085/index.m3u8
+#EXTINF:-1,AXN
+http://190.2.212.209:8050/play/a0my
+#EXTINF:-1,Space
+http://181.204.79.182:8202/play/a023
+#EXTINF:-1 group-title="Испания | Spain 🇪🇸",SPACE HD
+http://45.169.163.83:8000/play/a1a3
+#EXTINF:-1,Space HD
+http://200.59.188.3:8000/play/a00j
+#EXTINF:-1,Space HD
+http://181.78.78.66:8000/play/a028
+#EXTINF:-1,SPACE HD
+http://38.180.133.31:8000/play/a0qj/index.m3u8
+#EXTINF:-1,Space HD
+http://38.180.133.31:8000/play/a0t1/index.m3u8
+#EXTINF:-1,05.1Space
+http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1,05.1Space
+http://200.60.124.19:29000/play/a028
+#EXTINF:-1,Space HD
+http://45.181.122.46:8090/play/a00h
+#EXTINF:-1,Space HD
+http://181.233.168.7:8282/play/a02o
+#EXTINF:-1,Space HD
+http://190.60.49.244:4000/play/a06o
+#EXTINF:-1,Space HD
+http://45.181.122.201:8081/play/a009
+#EXTINF:-1,Space HD
+http://181.176.174.135:8200/play/a0di
+#EXTINF:-1,Space HD
+http://186.148.181.155:8000/play/a007
+#EXTINF:-1,Space
+http://38.41.8.1:8000/play/a05y
+#EXTINF:-1,SPACE
+http://190.2.212.209:8050/play/a0mz
+#EXTINF:-1,SPACE
+http://170.233.192.234:8112/play/119
+#EXTINF:-1,Space
+http://181.78.106.127:9000/play/ca072/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://45.169.163.83:8000/play/a18m
+#EXTINF:-1,Comedy Central HD
+http://152.200.192.150:8000/play/a01p
+#EXTINF:-1,Comedy Central HD
+http://200.125.170.121:8000/play/a04l
+#EXTINF:-1,Comedy Central HD
+http://38.7.31.247:8000/play/a0cd/index.m3u8
+#EXTINF:-1,Comedia central
+http://45.169.163.83:8000/play/a18m
+#EXTINF:-1,USA
+http://181.205.130.194:4000/play/a06v
+#EXTINF:-1,USA
+http://45.169.163.83:8000/play/a1aq
+#EXTINF:-1,USA
+http://170.233.192.234:8112/play/101
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULA HD 
+http://190.60.42.86:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULAHD 
+http://181.225.96.75:8080/play/a09z/index.m3u8
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULAHD
+http://190.121.146.75:8000/play/a09z/index.m3u8
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",De Pelicula 
+http://38.52.182.236:9000/play/a04c
+#EXTINF:-1 group-title="© De Pelicula" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/220px-DPel%C3%ADcula_2021.svg.png",DE PELICULA 1
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://181.78.106.127:9000/play/ca073/index.m3u8
+#EXTINF:-1,DE PELICULA
+http://45.169.163.83:8000/play/a19x
+#EXTINF:-1,Cine Latino
+http://38.180.133.31:8000/play/a0qa/index.m3u8
+#EXTINF:-1,Universal Crime
+http://38.180.133.31:8000/play/a0ph/index.m3u8
+#EXTINF:-1,Universal comedy
+http://38.41.8.1:8000/play/a05r
+#EXTINF:-1,Universal Premiere
+http://38.180.133.31:8000/play/a0pe/index.m3u8
+#EXTINF:-1,Universal Reality
+http://38.180.133.31:8000/play/a0pg/index.m3u8
+#EXTINF:-1,Universal Premiere
+http://190.61.42.218:9000/play/a006
+#EXTINF:-1,Universal Premiere
+http://45.169.163.83:8000/play/a1b4
+#EXTINF:-1,Universal premiere
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",UNIVERSAL CHANNEL HD 
+http://181.78.78.66:8000/play/a04m
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere 
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",Universal Premiere 
+http://200.59.188.3:8000/play/a06t
+#EXTINF:-1,Universal cinema
+http://181.78.106.127:9000/play/ca083/index.m3u8
+#EXTINF:-1,Universal Cinema
+http://190.61.42.218:9000/play/a007
+#EXTINF:-1,Universal Cinema
+http://45.5.117.182:8000/play/a0jz/index.m3u8
+#EXTINF:-1,Universal cinema
+http://38.41.8.1:8000/play/a05q
+#EXTINF:-1,Universal Tv
+http://38.41.8.1:8000/play/a04r
+#EXTINF:-1, UNIVERSAL TV
+http://181.205.130.194:4000/play/a06f
+#EXTINF:-1 group-title="© Universal Channel" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Universal_Channel_logo.png/150px-Universal_Channel_logo.png",RED - UNIVERSAL COMEDY HD
+http://38.52.182.236:9000/play/a09b
+#EXTINF:-1, UNIVERSAL TV
+http://200.60.124.19:29000/play/a01m
+#EXTINF:-1,Universal Tv
+http://45.169.163.83:8000/play/a198
+#EXTINF:-1,Universal
+http://200.60.124.19:29000/play/a01m
+#EXTINF:-1,Studio Universal
+http://181.78.106.127:9000/play/ca074/index.m3u8
+#EXTINF:-1,Estudio universal
+http://217.26.191.112:8126/play/a0dc/index.m3u8
+#EXTINF:-1,Studio Universal
+http://45.169.163.83:8000/play/a18o
+#EXTINF:-1,Universal Channel
+http://179.1.48.57:9000/play/a02s/index.m3u8
+#EXTINF:-1, STUDIO UNIVERSAL
+http://45.169.163.83:8000/play/a18o
+#EXTINF:-1 group-title="Películas",ESTUDIO UNIVERSAL
+http://190.61.42.218:9000/play/a010
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal
+http://190.61.117.35:8000/play/a029
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://168.90.14.116:8282/play/a00i
+#EXTINF:-1 group-title="© Studio Universal" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Studio_Universal_logo.svg/220px-Studio_Universal_logo.svg.png",Studio Universal HD
+http://186.148.181.157:8000/play/a00g
+#EXTINF:-1,Universal 
+http://170.233.192.234:8112/play/088
+#EXTINF:-1,Studio Universal
+http://170.233.192.234:8112/play/098
+#EXTINF:-1, Starz
+http://181.114.57.246:4000/play/tyuptHZqYdP3wcU7/index.m3u8
+#EXTINF:-1,Life Time
+http://170.233.192.234:8112/play/100
+#EXTINF:-1,Comedia Central
+http://181.78.106.127:9000/play/ca050/index.m3u8
+#EXTINF:-1,A&E
+http://170.233.192.234:8112/play/102
+#EXTINF:-1,A&E
+http://38.180.133.31:8000/play/a0or/index.m3u8
+#EXTINF:-1,A&E HD
+http://181.78.106.127:9000/play/ca086/index.m3u8
+#EXTINF:-1,Multipremier
+http://181.78.106.127:9000/play/ca087/index.m3u8
+#EXTINF:-1,FX
+http://181.204.79.182:8202/play/a024
+#EXTINF:-1,FX HD
+http://45.169.163.83:8000/play/a19c
+#EXTINF:-1, FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1, FX
+http://181.78.106.127:9000/play/ca075/index.m3u8
+#EXTINF:-1, FX
+http://45.169.163.83:8000/play/a19c
+#EXTINF:-1, FX
+http://200.60.124.19:29000/play/a029
+#EXTINF:-1,FX
+http://190.61.42.218:9000/play/a01q
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/900px-TNT_Logo_2016.svg.png" group-title="varios",TNT
+http://200.60.124.19:29000/play/a01u
+#EXTINF:-1,TNT
+http://190.61.42.218:9000/play/a060
+#EXTINF:-1,TNT
+http://45.169.163.83:8000/play/a1as
+#EXTINF:-1,TNT HD
+http://45.169.163.83:8000/play/a196
+#EXTINF:-1,TNT HD
+http://181.205.130.194:4000/play/a06n
+#EXTINF:-1, TNT
+http://200.52.150.5:8000/play/a0sq/index.m3u8
+#EXTINF:-1,7.6 TNT
+http://200.60.124.19:29000/play/a01u
+#EXTINF:-1,TNT
+http://45.169.163.83:8000/play/a196
+#EXTINF:-1,TNT
+http://38.41.8.1:8000/play/a04z
+#EXTINF:-1,TNT
+http://45.169.163.83:8000/play/a197
+#EXTINF:-1,TNT
+http://170.233.192.234:8112/play/109
+#EXTINF:-1,TNT series
+http://170.233.192.234:8112/play/108
+#EXTINF:-1,TNT Series HD
+http://38.180.133.31:8000/play/a0qr/index.m3u8
+#EXTINF:-1,TNT NOVELAS
+http://181.204.79.182:8202/play/a03u
+#EXTINF:-1,TNT NOVELAS
+http://45.169.163.83:8000/play/a197
+#EXTINF:-1,TNT Novelas
+http://200.60.124.19:29000/play/a06r
+#EXTINF:-1,Caracol HD
+http://181.204.79.182:8202/play/a06d
+#EXTINF:-1 group-title="© Caracol" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/120px-Caracol_HD_Internacional.png",CARACOL TV HD2
+http://181.78.14.26:8000/play/a00d
+#EXTINF:-1 group-title="© Caracol" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Caracol_HD_Internacional.png/120px-Caracol_HD_Internacional.png",CARACOL TV HD
+http://154.198.59.1:8000/play/a00f
+#EXTINF:-1,caracol
+http://45.169.163.83:8000/play/a18h
+#EXTINF:-1,Caracol
+http://38.41.8.1:8000/play/a06i
+#EXTINF:-1,RCN
+http://200.59.188.3:8000/play/a03a
+#EXTINF:-1,RCN
+http://38.41.8.1:8000/play/a06j
+#EXTINF:-1,RCN
+http://190.60.32.178:8178/play/a0ao/index.m3u8
+#EXTINF:-1,RCN novelas
+http://181.78.106.127:9000/play/ca014/index.m3u8
+#EXTINF:-1, RCN NOVELAS
+http://181.78.106.127:9000/play/ca014/index.m3u8
+#EXTINF:-1,Star Channel
+http://170.233.192.234:8112/play/093
+#EXTINF:-1,Star Channel
+http://170.233.192.234:8112/play/083
+#EXTINF:-1,Star Channel
+http://38.41.8.1:8000/play/a04w
+#EXTINF:-1,STAR CHANNEL
+http://181.204.79.182:8202/play/a00j
+#EXTINF:-1,STAR CHANNEL HD
+http://181.205.130.194:4000/play/a06k
+#EXTINF:-1,STAR CHANNEL HD
+http://38.180.133.31:8000/play/a0p1/index.m3u8
+#EXTINF:-1,07.3STAR CHANNEL
+http://200.60.124.19:29000/play/a01r
+#EXTINF:-1,07.3STAR CHANNEL HD
+http://45.169.163.83:8000/play/a1b7
+#EXTINF:-1,Sony
+http://170.233.192.234:8112/play/085
+#EXTINF:-1,Sony Channel
+http://38.41.8.1:8000/play/a05w
+#EXTINF:-1,SONY
+http://170.233.192.234:8112/play/150
+#EXTINF:-1,SONY
+http://190.2.212.209:8050/play/a0mx
+#EXTINF:-1,SONY HD
+http://38.180.133.31:8000/play/a0p3/index.m3u8
+#EXTINF:-1,05.2Sony
+http://200.60.124.19:29000/play/a026
+#EXTINF:-1,14.3Telemundo
+http://200.60.124.19:29000/play/a01g
+#EXTINF:-1,Star Channel
+http://45.169.163.83:8000/play/a1b7
+#EXTINF:-1,Las Estrellas
+http://45.169.163.83:8000/play/a18v
+#EXTINF:-1,Globo
+http://181.78.106.127:9000/play/ca089/index.m3u8
+#EXTINF:-1,MX Family
+http://170.233.192.234:8112/play/120
+#EXTINF:-1,MX Classic
+http://170.233.192.234:8112/play/121
+#EXTINF:-1,MX
+http://170.233.192.234:8112/play/122
+#EXTINF:-1,MX Old
+http://170.233.192.234:8112/play/123
+#EXTINF:-1,1 HD
+http://79.117.39.146:8000/play/a0ar
+#EXTINF:-1,Playboy HD
+http://45.169.163.83:8000/play/a19d
+#EXTINF:-1,Adult Swim
+http://45.169.163.83:8000/play/a18f
+#EXTINF:-1,las estrellas
+http://45.169.163.83:8000/play/a18v
+#EXTINF:-1,Las Estrellas
+http://170.233.192.234:8112/play/151
+#EXTINF:-1,Las Estrellas
+http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1,Canal 3
+http://181.78.106.127:9000/play/ca010/index.m3u8
+#EXTINF:-1,Canal 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1,Canal 7
+http://181.78.106.127:9000/play/ca008/index.m3u8
+#EXTINF:-1,CanaL 11
+http://181.78.106.127:9000/play/ca002/index.m3u8
+#EXTINF:-1,Telemundo
+http://181.78.106.127:9000/play/ca009/index.m3u8
+#EXTINF:-1,Disney Channel
+http://190.61.42.218:9000/play/a01a
+#EXTINF:-1,Baby tv
+http://170.233.192.234:8112/play/004
+#EXTINF:-1,Discovery Kids
+http://170.233.192.234:8112/play/005
+#EXTINF:-1,Disney
+http://170.233.192.234:8112/play/006
+#EXTINF:-1,Cartoon Network
+http://170.233.192.234:8112/play/009
+#EXTINF:-1,Disney Channel
+http://170.233.192.234:8112/play/010
+#EXTINF:-1,Nickelodeon
+http://170.233.192.234:8112/play/014
+#EXTINF:-1,Nickelodeon
+http://181.78.106.127:9000/play/ca052/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://45.169.163.83:8000/play/a191
+#EXTINF:-1,Disney Channel
+http://181.78.106.127:9000/play/ca053/index.m3u8
+#EXTINF:-1,Disney Channel
+http://45.169.163.83:8000/play/a18r
+#EXTINF:-1,Disney Channel
+http://79.117.39.146:8000/play/a0ah
+#EXTINF:-1,Dreanwork
+http://181.78.106.127:9000/play/ca054/index.m3u8
+#EXTINF:-1,FMH kids
+http://170.233.192.234:8112/play/015
+#EXTINF:-1,Asteca 7
+http://181.78.106.127:9000/play/ca023/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://170.233.192.234:8112/play/024
+#EXTINF:-1,Discovery Channel
+http://45.169.163.83:8000/play/a18z
+#EXTINF:-1,Discovery Channel
+http://45.169.163.83:8000/play/a190
+#EXTINF:-1,National Geographic
+http://170.233.192.234:8112/play/027
+#EXTINF:-1,History
+http://170.233.192.234:8112/play/032
+#EXTINF:-1,History
+http://45.169.163.83:8000/play/a18u
+#EXTINF:-1,History 2
+http://170.233.192.234:8112/play/033
+#EXTINF:-1,History 2
+http://45.169.163.83:8000/play/a18t
+#EXTINF:-1,History 2
+http://179.1.48.57:9000/play/a01i/index.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-chno="126" tvg-id="TCM.pe" tvg-name="LA: TCM" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TCMLA.webp" group-title="Cine",TCM
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106085.ts
-#EXTINF:-1 tvg-chno="216" tvg-id="TNT NOVELAS HD.pe" tvg-name="LA: TNT Novelas" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Novelas_logo_2023.png" group-title="Novelas",TNT Novelas
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/105144.ts
-#EXTINF:-1 tvg-chno="218" tvg-id="UNIVERSAL CHANNEL.pe" tvg-name="LA: Universal" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_TV_logo.png" group-title="Cine",Universal
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106105.ts
-#EXTINF:-1 tvg-chno="222" tvg-id="Entertainment.lat" tvg-name="LA: E! Entertainment" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/E_2012_logo.webp" group-title="Entretenimiento",E! Entertainment
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106004.ts
-#EXTINF:-1 tvg-chno="502" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_2016.png" group-title="Cine",TNT
-http://goldfull.pro:8880/pnvmr8p946/DA7dLuQFsUKv/318658
-#EXTINF:-1 tvg-chno="510" tvg-id="PARAMOUNT HD.pe" tvg-name="LA: Paramount Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Paramount_Network.png" group-title="Cine",Paramount Channel
-http://gotv.vip:8880/jean50/jean50/251
-#EXTINF:-1 tvg-chno="513" tvg-id="DHE.lat" tvg-name="LA: DHE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/2560px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148776.ts
-#EXTINF:-1 tvg-chno="524" tvg-id="HBO HD.pe" tvg-name="LA: HBO" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO.png" group-title="Cine",HBO
-http://gotv.vip:8880/jean50/jean50/87
-#EXTINF:-1 tvg-chno="525" tvg-id="HBO 2.pe" tvg-name="LA: HBO2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO2_logo.png" group-title="Cine",HBO 2
-http://gotv.vip:8880/jean50/jean50/88
-#EXTINF:-1 tvg-chno="526" tvg-id="HBO PLUS.pe" tvg-name="LA: HBO Plus" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Logohboplus2019.png" group-title="Cine",HBO Plus
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/120063.ts
-#EXTINF:-1 tvg-chno="542" tvg-id="HBO XTREME.pe" tvg-name="LA: HBO Xtreme" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/HBO_Xtreme.png" group-title="Cine",HBO Xtreme
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106040.ts
-#EXTINF:-1 tvg-chno="572" tvg-id="UniversalCinema.lat" tvg-name="LA: Universal Cinema" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Universal_Cinema_2021.webp" group-title="Cine",Universal Cinema
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/106107.ts
-#EXTINF:-1 tvg-chno="695" tvg-id="TNTSports.lat" tvg-name="LA: TNT Sports" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/TNT_Sports_2021.webp" group-title="Deportes",TNT Sports
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/339646
 
 
-#EXTINF:-1 tvg-chno="902" tvg-id="ZonaMusic2.lat" tvg-name="LA: Zona Music 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ZonaMusic.png" group-title="Entretenimiento",Zona Music 2
-http://flx.lat:8080/live/RRaJvLYQhYmQ/YHfWF7KNjEuW/148813.ts
+#EXTINF:-1,Win Sports
+http://179.1.48.57:9000/play/a02v/index.m3u8
+#EXTINF:-1,Win Sports
+http://181.204.79.182:8202/play/a026
+#EXTINF:-1,WIN SPORTS
+http://200.59.188.3:8000/play/a03y
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN
+http://181.205.130.194:4000/play/a08n
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 1
+http://181.205.130.194:4000/play/a07j
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 1 col
+http://38.44.109.41:8003/play/a02v
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN
+http://38.51.234.86:8000/play/a01g/index.m3u8
+#EXTINF:-1,ESPN
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1,ESPN hd
+http://38.41.8.1:8000/play/a02b
+#EXTINF:-1,ESPN sd
+http://38.41.8.1:8000/play/a06r
+#EXTINF:-1,ESPN sd
+http://38.41.8.1:8000/play/a07q
+#EXTINF:-1,ESPN sd
+http://38.41.8.1:8000/play/a07r
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 1
+http://179.63.6.17:9000/play/a00j
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2
+http://179.63.6.12:8000/play/a04v
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2 mx
+http://179.63.6.17:9000/play/a05c
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 2
+http://181.205.130.194:4000/play/a07i
+#EXTINF:-1,ESPN2
+http://38.41.8.1:8000/play/a05o
+#EXTINF:-1,ESPN
+http://200.59.188.3:8000/play/a03i
+#EXTINF:-1,ESPN2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1,ESPN2
+http://217.26.191.112:8126/play/a0dn/index.m3u8
+#EXTINF:-1,ESPN 3
+http://181.204.79.182:8202/play/a02f
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 3
+http://179.63.6.17:9000/play/a00s
+#EXTINF:-1,ESPN3
+http://181.78.106.127:9000/play/ca035/index.m3u8
+#EXTINF:-1,ESPN3
+http://38.41.8.1:8000/play/a06a
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 4
+http://77.160.58.67:8003/play/a023
+#EXTINF:-1,ESPN4
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 5
+http://45.175.139.194:8000/play/13
+#EXTINF:-1,ESPN5
+http://38.41.8.1:8000/play/a07b
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://181.204.79.182:8202/play/a01x
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://181.205.130.194:4000/play/a07t
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://179.63.6.17:9000/play/a00t
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://38.44.109.41:8003/play/a00u
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 6
+http://181.119.86.1:8000/play/a015
+#EXTINF:-1,ESPN6
+http://38.41.8.1:8000/play/a082
+#EXTINF:-1,ESPN6
+http://200.125.170.123:8000/play/a05y
+#EXTINF:-1,ESPN6
+http://181.233.168.7:8282/play/a00d
+#EXTINF:-1,ESPN6
+http://45.169.163.83:8000/play/a19j
+#EXTINF:-1,ESPN6
+http://181.233.168.6:8282/play/a00d
+#EXTINF:-1,ESPN6
+http://170.233.192.234:8112/play/211
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7
+http://181.204.79.182:8202/play/a01w
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7
+http://181.119.86.1:8000/play/a01g
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7
+http://179.63.6.12:8000/play/a05p
+#EXTINF:-1 group-title="© ESPN" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/ESPN%27s_Old_Logo.png/220px-ESPN%27s_Old_Logo.png",ESPN 7 mx
+http://181.205.130.194:4000/play/a07s
+#EXTINF:-1,Movi#EXTINF:-1,ESPN7 MX
+http://38.41.8.1:8000/play/a081
+#EXTINF:-1,ESPN7 MX
+http://38.41.8.1:8000/play/a01d
+#EXTINF:-1,ESPN7 MX HD
+http://168.90.14.118:8282/play/a06t
+#EXTINF:-1,ESPN 7
+http://190.61.42.218:9000/play/a01j
+
+#EXTINF:-1, ESPN
+http://200.52.150.5:8000/play/a0se/index.m3u8
+#EXTINF:-1,ESPN premium
+http://45.169.163.83:8000/play/a1az
+#EXTINF:-1,ESPN
+http://45.169.163.83:8000/play/a19i
+#EXTINF:-1, ESPN
+http://200.60.124.19:29000/play/a016
+#EXTINF:-1,ESPN HD
+http://38.180.133.31:8000/play/a0tb/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.180.133.31:8000/play/a0up/index.m3u8
+#EXTINF:-1 tvg-name="ESPN HD Latinoamérica" ​​tvg-logo="" group-title="Deportes",ESPN HD
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:-1, ESPN 2
+http://200.52.150.5:8000/play/a0sf/index.m3u8
+#EXTINF:-1, ESPN 2
+http://200.52.150.5:8000/play/a0sf/index.m3u8
+#EXTINF:-1, ESPN 2
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:-1, ESPN 2
+http://200.60.124.19:29000/play/a015
+#EXTINF:-1, ESPN 2
+http://190.60.32.178:8178/play/a0at/index.m3u8
+#EXTINF:-1,ESPN2
+http://45.169.163.83:8000/play/a1ay
+#EXTINF:-1,ESPN 2
+http://181.114.57.246:4000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1,ESPN 2
+http://38.180.133.31:8000/play/a0w4/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://38.180.133.31:8000/play/a0t3/index.m3u8
+#EXTINF:-1, ESPN 3
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1, ESPN 3
+http://45.169.163.83:8000/play/a19q
+#EXTINF:-1, ESPN 3
+http://200.60.124.19:29000/play/a02e
+#EXTINF:-1,ESPN3
+http://190.61.42.218:9000/play/a061
+#EXTINF:-1,ESPN 3
+http://45.169.163.83:8000/play/a19q
+#EXTINF:-1, ESPN 4
+http://181.78.106.127:9000/play/ca036/index.m3u8 HD
+#EXTINF:-1,ESPN 5
+http://45.169.163.83:8000/play/a19t
+#EXTINF:-1,ESPN5
+http://200.60.124.19:29000/play/a04y
+#EXTINF:-1, ESPN 5 MX
+http://181.114.57.246:4000/play/zMbqBSS3gramuTPy/index.m3u8
+#EXTINF:-1, ESPN 6 mx
+http://190.60.32.178:8178/play/a0aa/index.m3u8
+#EXTINF:-1, ESPN 6 MX
+http://45.169.163.83:8000/play/a19j
+#EXTINF:-1, ESPN 6 MX
+http://200.60.124.19:29000/play/a01f
+#EXTINF:-1,ESPN6
+http://190.61.42.218:9000/play/a062
+#EXTINF:-1,ESPN 6
+http://38.180.133.31:8000/play/a0qo/index.m3u8
+#EXTINF:-1,espn 6
+http://45.169.163.83:8000/play/a19j
+#EXTINF:-1,ESPN 6 MX
+http://181.114.57.246:4000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamérica" ​​tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7 BR
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/7
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamérica" ​​tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
+http://200.60.124.19:29000/play/a01e
+#EXTINF:-1 tvg-name="ESPN 7 Latinoamérica" ​​tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/504px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
+http://190.60.32.178:8178/play/a0ad/index.m3u8
+#EXTINF:-1,TUDN
+http://181.78.106.127:9000/play/ca025/index.m3u8
+#EXTINF:-1,ECDF
+http://38.180.133.31:8000/play/a0uy/index.m3u8
+#EXTINF:-1,ECDF
+http://38.41.8.1:8000/play/a02k
+#EXTINF:-1,GOLPERU
+http://38.41.8.1:8000/play/a02j
+#EXTINF:-1,GOLPERU HD
+http://38.180.133.31:8000/play/a0ux/index.m3u8
+#EXTINF:-1,GolTV
+http://38.180.133.31:8000/play/a0ur/index.m3u8
+#EXTINF:-1,GolTV
+http://181.114.57.246:4000/play/S58HV7ekrnCUvF4u/index.m3u8
+#EXTINF:-1,goltv
+http://8.243.126.131:8000/play/a01k/index.m3u8
+#EXTINF:-1,GOLTV
+http://38.41.8.1:8000/play/a02d
+#EXTINF:-1, movistar deportes
+http://38.51.234.86:8000/play/a027/index.m3u8
+#EXTINF:-1, movistar deportes
+http://38.180.133.31:8000/play/a0ul/index.m3u8
+#EXTINF:-1, movistar deportes
+http://200.59.188.3:8000/play/a0jk
+#EXTINF:-1,Tigo sports
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1,Universo Sports
+http://181.78.106.127:9000/play/ca088/index.m3u8
+#EXTINF:-1,Www
+http://181.78.106.127:9000/play/ca040/index.m3u8
+#EXTINF:-1,Fox Sports
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1,Fox Sports 2
+http://181.78.106.127:9000/play/ca032/index.m3u8
+#EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png",FOX SPORT
+http://190.61.117.35:8000/play/a05n
+#EXTINF:-1 group-title="© Fox" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png",FOX PREMIUM
+http://190.61.117.35:8000/play/a04a
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SporTV3_2021.png/1200px-SporTV3_2021.png" group-title="Sports",SPORTV 3
+http://tv.amplista.com/live/gamaliel/2019/36942.ts
+#EXTINF:-1 group-title="Dazn" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png",DAZN LIGA 
+http://79.117.39.146:8000/play/a0ln
+#EXTINF:-1 group-title="© DSports" language="Español" tvg-logo="",Fox Premium
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1733071006.692&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:-1,TNT SPORTS CL
+http://38.51.234.86:8000/play/a02d/index.m3u8
+#EXTINF:-1,TNT DEPORTES 2
+http://45.169.163.83:8000/play/a1b2
+#EXTINF:-1,TNTSPORTSHD
+http://45.169.163.83:8000/play/a1a4
+#EXTINF:-1,TNT SPORTS HD
+http://38.180.133.31:8000/play/a0t2/index.m3u8
+#EXTINF:-1,TNT Sports HD
+http://179.1.48.57:9000/play/a04h/index.m3u8
+#EXTINF:-1,TYC Sports
+http://38.41.8.1:8000/play/a02i
+#EXTINF:-1,TYC Sports
+http://190.61.42.218:9000/play/a01e
+#EXTINF:-1,TyC Sports HD
+http://38.180.133.31:8000/play/a0uw/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca028/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca029/index.m3u8
+#EXTINF:-1,SKY SPORTS
+http://181.78.106.127:9000/play/ca030/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD 
+http://194.26.229.213/matc-futbol-1/index.m3u8?token=Panda
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://77.243.112.149:8080/football2_hd/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://194.26.229.213/matc-futbol-3/index.m3u8?token=Panda
+#EXTINF:0 ,МАТЧ ПРЕМЬЕР
+http://77.235.1.17/match_premier/index.m3u8
+#EXTINF:-1 group-title="АПЛ", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1,SPORTS BRAZIL
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qzobqn1660760939.png", ESPN Brasil
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 2 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36977.ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 3 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36976.ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 4 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36970.ts
+#EXTINF:-1 tvg-logo="http://castlempire.site:8080/images/2858c50b563b886193b4308053812768.png" group-title="Internacionales", ESPN 5 Brasil
+http://tv.amplista.com/live/gamaliel/2019/36971.ts
+#EXTINF:-1 tvg-name="Band Sports" tvg-id="289938" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
+http://170.80.69.8:8000/play/a0dm/index.m3u8
+#EXTINF:-1 tvg-name="Band Sports" tvg-id="289938" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
+http://170.80.69.8:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-name="Band Sports" tvg-id="289938" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105222730944950_63.png" group-title="Sports",[HD]band sports
+https://stream1.freetv.fun/f55a849b8592c617e547012d8c1c9a611456461447e45fb8584ba1c2da4589a0.m3u8
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png" group-title="Sports",SPORTV
+http://tv.amplista.com/live/gamaliel/2019/37255.ts
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/SporTV2_2021.png" group-title="Sports",SPORTV 2
+http://tv.amplista.com/live/gamaliel/2019/36943.ts
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv
+http://170.80.69.8:8000/play/a0em/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv
+http://170.80.69.8:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv2
+http://170.80.69.8:8000/play/a0en/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv2
+http://170.80.69.8:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv3
+http://170.80.69.8:8000/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="© SporTV" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/SporTV_2021.png",Streamer - Sportv3
+http://170.80.69.8:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere1
+http://170.80.69.8:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere2
+http://170.80.69.8:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere3
+http://170.80.69.8:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere4
+http://170.80.69.8:8000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere5
+http://170.80.69.8:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere6
+http://170.80.69.8:8000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere7
+http://170.80.69.8:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="© Premiere" language="Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Premiere_logo_2013.png/400px-Premiere_logo_2013.png",Premiere8
+http://170.80.69.8:8000/play/a09s/index.m3u8
+
+
+
+#EXTINF:-1,RUSO SPORTS
+
+#EXTINF:-1 group-title="SPORT 🏆",Футбол 1 HD vpn
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 group-title="SPORT 🏆",М Премьер
+http://77.235.1.17/match_premier/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Матч ТВ
+http://77.235.1.17/match/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Спорт HD
+http://77.235.1.17/ktrk_sport/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 HD
+http://50.7.92.98:8887/8694/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Y1 Израиль
+http://50.7.92.98:8887/8339/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Y2 Израиль
+http://50.7.92.98:8887/8341/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆", SKY SPORT mix
+http://50.7.92.98:8887/8674/video.m3u8
+#EXTINF:-1 tvg-id="7539" tvg-rec="1" tvg-logo="http://epg.one/img2/7539.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 1 HD
+http://95.67.12.81:10625
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports
+http://82.215.111.227/1263/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports UA HD
+http://158.101.214.187:8080/channel/55bea1f0/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Ukraine Plus HD
+http://158.101.214.187:8080/channel/4eb18fdb/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1 Georgia HD
+http://158.101.214.187:8080/channel/n504ecebd/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2 Georgia HD
+http://158.101.214.187:8080/channel/n489d295e/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 group-title="SPORT 🏆",Суспільне Спорт ful hd
+http://95.67.12.81:10625
+#EXTINF:-1 group-title="SPORT 🏆",Viasat Sport HD
+https://flussonic.salomtv.uz/Viasat_Sport/video.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORTS 4
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",SPORTV (RU-UZ)
+http://82.215.111.227/1004/index.m3u8?token=fas-tv.com
+#EXTINF:-1 tvg-id="7539" tvg-rec="1" tvg-logo="http://epg.one/img2/7539.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 1 HD
+http://de.seetv.cc/play/5009/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7540" tvg-rec="1" tvg-logo="http://epg.one/img2/7540.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 2 HD
+http://de.seetv.cc/play/5010/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7541" tvg-rec="1" tvg-logo="http://epg.one/img2/7541.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 3 HD
+http://de.seetv.cc/play/5011/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 5 HD
+http://de.seetv.cc/play/5013/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 6 HD
+http://de.seetv.cc/play/5014/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 7 HD
+http://de.seetv.cc/play/5015/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 8 HD
+http://de.seetv.cc/play/5016/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 10 HD
+http://de.seetv.cc/play/5018/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 11 HD
+http://de.seetv.cc/play/5019/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 12 HD
+http://de.seetv.cc/play/5020/9195C9EF9216242/video.m3u8
+#EXTINF:-1 tvg-id="7543" tvg-rec="1" tvg-logo="http://epg.one/img2/7543.png" catchup_days="3" group-title="SPORT 🏆",ViP Sport 13 HD
+http://de.seetv.cc/play/5021/9195C9EF9216242/video.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1, GOL PERU
+http://200.60.124.19:29000/play/a00b
+#EXTINF:-1, FUTV HD CR
+http://45.5.117.182:8000/play/a0jm/index.m3u8
+#EXTINF:-1, TIGO SPORT CR
+http://45.5.117.182:8000/play/ljt0/index.m3u8
+#EXTINF:-1, Fox Sports mx 
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:-1 tvg-name="465 Fox Sports Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/76px-FOX_Deportes_logo.svg.png" group-title="Deportes",FOX DEPORTES
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01, Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1Ymkud mlkZW8=
+#EXTINF:-1, TIGO SPORTS SALVADOR
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1, RPC
+http://45.5.117.182:8000/play/a0iq/index.m3u8
+#EXTINF:-1, DEPORTES TVC
+http://45.4.85.213:58001/play/a04z
+#EXTINF:-1,Latin America Sport
+http://45.228.234.210:8000/play/a02h/index.m3u8
+
+#EXTINF:-1,Adult 08
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/468
+#EXTINF:-1,Adult 07
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/479
+#EXTINF:-1,ES | beIN Sports La Liga
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/626
+#EXTINF:-1,USA | UFC Fight Pass
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/631
+#EXTINF:-1,Latino USA | Starz Encore
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/651
+#EXTINF:-1,Bally Sports SoCal
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/665
+
+
+
+
+#EXTINF:-1,Adult Swim
+http://45.228.234.210:8000/play/a058/index.m3u8
+#EXTINF:-1,Baby First
+http://45.228.234.210:8000/play/a027/index.m3u8
+#EXTINF:-1,Canal 11 - GUA
+http://45.228.234.210:8000/play/a04e/index.m3u8
+#EXTINF:-1,Canal 11 - HON
+http://45.228.234.210:8000/play/a04u/index.m3u8
+#EXTINF:-1,Canal 13-GUA
+http://45.228.234.210:8000/play/a04d/index.m3u8
+#EXTINF:-1,Canal 3 Telesistemas HND
+http://45.228.234.210:8000/play/a015/index.m3u8
+#EXTINF:-1,Canal VTV HND
+http://45.228.234.210:8000/play/a016/index.m3u8
+#EXTINF:-1,Multimedios
+http://45.228.234.210:8000/play/a05x/index.m3u8
+#EXTINF:-1,H2
+http://45.228.234.210:8000/play/a02b/index.m3u8
+#EXTINF:-1,Cartoonito
+http://45.228.234.210:8000/play/a054/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://38.41.8.1:8000/play/a04y
+#EXTINF:-1,Nick Jr
+http://45.228.234.210:8000/play/a053/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://45.228.234.210:8000/play/a018/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://45.228.234.210:8000/play/a017/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://45.228.234.210:8000/play/a01b/index.m3u8
+#EXTINF:-1,Disney
+http://45.228.234.210:8000/play/a019/index.m3u8
+#EXTINF:-1,Disney Channel
+http://38.41.8.1:8000/play/a05l
+#EXTINF:-1,Disney JR
+http://45.228.234.210:8000/play/a055/index.m3u8
+#EXTINF:-1,History HD
+http://45.228.234.210:8000/play/a05r/index.m3u8
+#EXTINF:-1,ID
+http://45.228.234.210:8000/play/a01d/index.m3u8
+#EXTINF:-1,National Geographic
+http://45.228.234.210:8000/play/a05e/index.m3u8
+#EXTINF:-1,RCN - GUA
+http://45.228.234.210:8000/play/a012/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://45.228.234.210:8000/play/a029/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://45.228.234.210:8000/play/a01r/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://45.228.234.210:8000/play/a057/index.m3u8
+
+
+#EXTINF:-1, PELICULAS Y SERIES
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_ebf9aaef9366405ea216242cfca7b9b9~mv2.jpg" group-title="BÁSICAMENTE CINE",ESTRELLA TV CINE | ESP
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb553d16726c648d93d43d64d1ef41a3dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27753c79e0a957f378bbdbe306f2c180680585ee2be5da5edf50b448b39f7b2184f887a14e5d45fc8d549ef9ddc539d129b77a4159495a2d88118d1d2c7010566884561a7b1eef8fa1bbef11fd0f79f71309f7e5a3e7437c882e333caa1e43d2e72f7eddfb725de1ecb9b2c82614dff685aea3251f8169e1cabf547b4a1bad102453ce4e95a732ea1ebafcade2630b264fea6e69f00143113a31935aa40fd1a515fbd5e020c8dc01adcd149e0e13d446c98c30cf399c3b581fd5fb76376eabe0e61c4bbb7ca3ca2cc2e839768c920de79e7e31639554e4b92b95cd09fe393510840ab8f44dd1f17b894decd8f4e73fd69155ee777ca1b2b588c653c32b576b9ad3562df7251c52d6baf1175a152ecb429c2a2d9ce0f2ffa8b9415b13cb9f542f9de36844170190ebaf9291f62497edbe12f4d1371d14ae9d685b0265b4ebcb99db090130b063f164005c4b7b427d5dd965b687cab642f6e701f0085448739ad6767346e984e9dfc7337ef600622e9a03358201cb5c0a38e8ad38a09f548dac1f93638281b049936162d7adca6873baa6c6c37e6d7cccb3fce6de62f1b4fd9854d/74/1280x720_2657019/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaMultiplex.mx" tvg-name="DE PELICULA+ HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png"group-title="CINE Y SERIES",DE PELICULA+ HD
+http://nxt.plus:8080/jesus01/jesus01/43494
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png" group-title="CINE Y SERIES",AZ CINEMA HD
+http://nxt.plus:8080/jesus01/jesus01/160510
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png"group-title="CINE Y SERIES",STUDIO UNIVERSAL HD
+http://nxt.plus:8080/jesus01/jesus01/9780
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE Y SERIES",SPACE HD
+http://nxt.plus:8080/jesus01/jesus01/16922
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-series-hd.png" group-title="CINE Y SERIES",TNT SERIES HD
+http://nxt.plus:8080/jesus01/jesus01/16925
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tnt-hd.png" group-title="CINE Y SERIES",TNT HD
+http://nxt.plus:8080/jesus01/jesus01/25213
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE Y SERIES",AMC HD
+http://nxt.plus:8080/jesus01/jesus01/24818
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony.png" group-title="CINE Y SERIES",SONY
+http://nxt.plus:8080/jesus01/jesus01/43562
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_26c307dc7e0a45b8bd67778b796798f3~mv2.jpg" group-title="ABSOLUTAMENTE CINE",SONY CINE | ESP
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="0" id="CANAL 9 IXCHIGUÁN | GT" tvg-logo="https://static.wixstatic.com/media/526a76_1ee76d90c9bd4423ad363454ea60cebf~mv2.jpg" group-title="CONSTANTEMENTE CINE",CANAL 9 IXCHIGUÁN | GT
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", IU TV HD
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NEXT
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d696844d1b49413d91aadba9ad6e8c5f~mv2.jpg" group-title="CONSTANTEMENTE CINE",FARO VISIÓN | DO
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 group-title="-freetv.com-" tvg-logo="https://imgur.com/XLYoL4t.jpg",freetv.com - FreeTV 8.2
+https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/002/490/496/small/old-retro-tv-isolated-icon-free-vector.jpg" group-title="24/7", TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="DISCONTINUAMENTE CINE",VISIÓN TV | GT
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="DISCONTINUAMENTE CINE",SAS TV | GT
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1, canal 9
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.pixabay.com/photo/2016/06/16/04/31/dominican-republic-1460624_960_720.jpg" group-title="R.DOMINICANA",R.DOMINICANA
+#EXTINF:-1, XXXXXXX
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Abusada E O Contador De Histórias" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Abusada E O Contador De Histórias
+https://video21.mais.uol.com.br/16882385-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Coroa E A Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Coroa E A Bengala
+https://video20.mais.uol.com.br/16931343-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Coroa Experiente" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Coroa Experiente
+https://videohd5.mais.uol.com.br/17039337-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Coroa Renata Rios" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Coroa Renata Rios
+https://video21.mais.uol.com.br/16930672-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A devoradora de homens" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A devoradora de homens
+https://video17.mais.uol.com.br/16797845-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Diversão Está Garantida" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Diversão Está Garantida
+https://videohd6.mais.uol.com.br/16718728-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fotógrafa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Fotógrafa
+https://video26.mais.uol.com.br/16807140-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Fruta Do Prazer" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Fruta Do Prazer
+https://video21.mais.uol.com.br/16827412-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Gata Do Momento - Bruna Alves E Don Picone" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Gata Do Momento - Bruna Alves E Don Picone
+https://video18.mais.uol.com.br/16678716-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Grande Coroa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Grande Coroa
+https://video26.mais.uol.com.br/17035258-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Guerreira Bruna Ferraz" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Guerreira Bruna Ferraz
+https://video20.mais.uol.com.br/16897521-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Lolita July Paiva" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Lolita July Paiva
+https://video28.mais.uol.com.br/17032761-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Lolita Morgana Dark" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Lolita Morgana Dark
+https://videohd6.mais.uol.com.br/16932777-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Morena Do Funk" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Morena Do Funk
+https://video17.mais.uol.com.br/16930374-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A novinha Jéssica Taylor" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A novinha Jéssica Taylor
+https://video29.mais.uol.com.br/16940410-10-50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Planta Safada Ju Pantera" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Planta Safada Ju Pantera
+https://videohd2.mais.uol.com.br/16944844-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Primeira Cena A Gente Nunca Esquece" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Primeira Cena A Gente Nunca Esquece
+https://video26.mais.uol.com.br/16793399-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Primeira Vez Da Mascarada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Primeira Vez Da Mascarada
+https://videohd2.mais.uol.com.br/16837592-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Primeira Vez Da Ninfetinha Na Cozinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Primeira Vez Da Ninfetinha Na Cozinha
+https://video19.mais.uol.com.br/16940408-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Primeira Vez De Foxx" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Primeira Vez De Foxx
+https://video18.mais.uol.com.br/16878122-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Ruivinha Quer Tudo Com O Kid" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Ruivinha Quer Tudo Com O Kid
+https://video18.mais.uol.com.br/17049490-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Safada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Safada
+https://video17.mais.uol.com.br/16793572-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Safada Fernandinha Fernandez" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Safada Fernandinha Fernandez
+https://videohd4.mais.uol.com.br/16934509-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Surfistinha Emanuelle" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Surfistinha Emanuelle
+https://video23.mais.uol.com.br/16930688-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Suruba Da Mônica Mattos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Suruba Da Mônica Mattos
+https://video19.mais.uol.com.br/16935964-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Suruba Do Imperador" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",A Suruba Do Imperador
+https://videohd7.mais.uol.com.br/16944855-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Acordando A Paloma Joy Daquele Jeito!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Acordando A Paloma Joy Daquele Jeito!
+https://video32.mais.uol.com.br/16702051-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aguenta O Big?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Aguenta O Big?
+https://video20.mais.uol.com.br/16939572-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alexandre Frota Vendendo O Corpo Para Pamela Butt" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Alexandre Frota Vendendo O Corpo Para Pamela Butt
+https://video21.mais.uol.com.br/16702573-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Amor E Traição - Bárbara Alves E Ed Júnior" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Amor E Traição - Bárbara Alves E Ed Júnior
+https://videohd1.mais.uol.com.br/16678735-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Caliente" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Caliente
+https://video25.mais.uol.com.br/16838004-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Com A July Paiva" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Com A July Paiva
+https://video21.mais.uol.com.br/16910702-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Com Big Macky" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Com Big Macky
+https://video20.mais.uol.com.br/16877808-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Da Ninfeta" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Da Ninfeta
+https://videohd5.mais.uol.com.br/16895044-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Delicioso" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Delicioso
+https://videohd4.mais.uol.com.br/16931302-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Gostoso" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Gostoso
+https://video26.mais.uol.com.br/16821116-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anal Insano" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Anal Insano
+https://video26.mais.uol.com.br/16793530-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aprendendo De Tudo Um Pouco" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Aprendendo De Tudo Um Pouco
+https://video19.mais.uol.com.br/16718679-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aquela Gata Do Whats..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Aquela Gata Do Whats...
+https://video32.mais.uol.com.br/16789180-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Aqui Homem Não Entra" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Aqui Homem Não Entra
+https://videohd7.mais.uol.com.br/16793552-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Babalu e mais dois" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Babalu e mais dois
+https://videohd3.mais.uol.com.br/16998303-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bad Boy" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Bad Boy
+https://video28.mais.uol.com.br/16682031-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banho De Leitinho" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Banho De Leitinho
+https://videohd6.mais.uol.com.br/16826864-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bengala No Cu Da Japa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Bengala No Cu Da Japa
+https://videohd3.mais.uol.com.br/16934436-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Macky E A Loirinha Gostosa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Big Macky E A Loirinha Gostosa
+https://video21.mais.uol.com.br/17035271-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Big Macky X Mônica Mattos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Big Macky X Mônica Mattos
+https://video21.mais.uol.com.br/16946499-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bilhar Sensual" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Bilhar Sensual
+https://videohd3.mais.uol.com.br/16795680-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bilhar Sensual Lésbico" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Bilhar Sensual Lésbico
+https://videohd2.mais.uol.com.br/16824993-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Black And White 8 - Mayara Rodrigues" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Black And White 8 - Mayara Rodrigues
+https://video30.mais.uol.com.br/16678659-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boxe" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Boxe
+https://videohd2.mais.uol.com.br/16803298-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bruna Spynella X Kid Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Bruna Spynella X Kid Bengala
+https://video19.mais.uol.com.br/16998327-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Casa De Swing" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Casa De Swing
+https://video28.mais.uol.com.br/16793611-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Closes Eróticos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Closes Eróticos
+https://video19.mais.uol.com.br/16821069-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Clube Privé - Matheus Carrieri E Lana Starck" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Clube Privé - Matheus Carrieri E Lana Starck
+https://video24.mais.uol.com.br/16676226-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colegial Exigente" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Colegial Exigente
+https://videohd3.mais.uol.com.br/16826771-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comendo A Irmã Do Amigo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Comendo A Irmã Do Amigo
+https://videohd3.mais.uol.com.br/16937220-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comendo A Mulher Do Corno" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Comendo A Mulher Do Corno
+https://videohd2.mais.uol.com.br/16948174-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como deixar um homem louco com a boca" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Como deixar um homem louco com a boca
+https://video27.mais.uol.com.br/16795670-10-70.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como um homem deve massagear uma mulher" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Como um homem deve massagear uma mulher
+https://video31.mais.uol.com.br/16828999-10-50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Como uma mulher deve massagear um homem" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Como uma mulher deve massagear um homem
+https://video22.mais.uol.com.br/16829008-10-50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Currada Ao Ar Livre" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Currada Ao Ar Livre
+https://video31.mais.uol.com.br/16827414-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dando O Cú Para O Kid Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dando O Cú Para O Kid Bengala
+https://video31.mais.uol.com.br/17003732-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dando O Rabo Na Academia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dando O Rabo Na Academia
+https://video18.mais.uol.com.br/16881592-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dando Sem Cansar" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dando Sem Cansar
+https://video19.mais.uol.com.br/16939566-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Ladinho No Sofá" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",De Ladinho No Sofá
+https://video17.mais.uol.com.br/16879333-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Olho Na Novinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",De Olho Na Novinha
+https://video20.mais.uol.com.br/16879335-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="De Quatro No Sofá" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",De Quatro No Sofá
+https://video22.mais.uol.com.br/16881719-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Depois dos 40 com Kid Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Depois dos 40 com Kid Bengala
+https://video19.mais.uol.com.br/16930696-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Depois Dos 40 Com O Kid" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Depois Dos 40 Com O Kid
+https://video19.mais.uol.com.br/16930696-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desbravando Novos Orifícios" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Desbravando Novos Orifícios
+https://videohd3.mais.uol.com.br/16827427-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detetive Safada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Detetive Safada
+https://video17.mais.uol.com.br/16907263-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doação Generosa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Doação Generosa
+https://video18.mais.uol.com.br/16835338-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dom Picone Mostrando Que Sabe Domar Novinhas E Coroas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dom Picone Mostrando Que Sabe Domar Novinhas E Coroas
+https://videohd7.mais.uol.com.br/16702567-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dp Com A Mayara Rodrigues" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dp Com A Mayara Rodrigues
+https://video26.mais.uol.com.br/16998337-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dp Com A Pamela" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dp Com A Pamela
+https://videohd6.mais.uol.com.br/16933513-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DP com Mayara Rodrigues" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",DP com Mayara Rodrigues
+https://video26.mais.uol.com.br/16998337-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dp Da Elisa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dp Da Elisa
+https://video22.mais.uol.com.br/16904237-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duas Celebridades Em Um Encontro Bem Safado" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Duas Celebridades Em Um Encontro Bem Safado
+https://video26.mais.uol.com.br/16683611-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dupla Penetração Com A Safadinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dupla Penetração Com A Safadinha
+https://video22.mais.uol.com.br/16888455-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dupla penetração na Lana Starck" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Dupla penetração na Lana Starck
+https://video25.mais.uol.com.br/16940411-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E Boca Na Pica!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",E Boca Na Pica!
+https://video28.mais.uol.com.br/16718761-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ela Diz Que É Virgem..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ela Diz Que É Virgem...
+https://videohd1.mais.uol.com.br/16718681-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ela Só Quer O Kid Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ela Só Quer O Kid Bengala
+https://videohd4.mais.uol.com.br/17044322-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elisa Sanches Com Dois" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Elisa Sanches Com Dois
+https://video30.mais.uol.com.br/16836373-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elisa Sanches Em Um Menagé Bem Safado" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Elisa Sanches Em Um Menagé Bem Safado
+https://videohd3.mais.uol.com.br/16793527-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Em Clima De Luxúria E Vingança" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Em Clima De Luxúria E Vingança
+https://video25.mais.uol.com.br/16673236-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enchendo O Copinho 9 - Volume 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Enchendo O Copinho 9 - Volume 3
+https://videohd7.mais.uol.com.br/16826854-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enchendo O Copinho 9 Volume 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Enchendo O Copinho 9 Volume 1
+https://video27.mais.uol.com.br/16816348-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Espantando e dando para o fantasma" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Espantando e dando para o fantasma
+https://videohd7.mais.uol.com.br/16898495-10-50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Esta Coroa Aguenta Tudo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Esta Coroa Aguenta Tudo
+https://videohd2.mais.uol.com.br/17039384-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Estranho Amor - Larissa Mendes E Carlão Bazuca" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Estranho Amor - Larissa Mendes E Carlão Bazuca
+https://video21.mais.uol.com.br/16678673-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fantasma Do Sexo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Fantasma Do Sexo
+https://videohd4.mais.uol.com.br/16943971-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Façam Suas Apostas." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Façam Suas Apostas.
+https://video29.mais.uol.com.br/16718689-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fetichista Morgana" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Fetichista Morgana
+https://video19.mais.uol.com.br/16988283-10-70.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fisting Na Hiady Mansur" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Fisting Na Hiady Mansur
+https://videohd1.mais.uol.com.br/16941275-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fodinha Com Rogê Ferro" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Fodinha Com Rogê Ferro
+https://videohd3.mais.uol.com.br/16944829-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garota Samambaia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Garota Samambaia
+https://videohd4.mais.uol.com.br/16682142-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Garotas Da Máfia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Garotas Da Máfia
+https://video19.mais.uol.com.br/16682529-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gatas De Ipanema" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gatas De Ipanema
+https://videohd7.mais.uol.com.br/16834413-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gostosas Tesourando" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gostosas Tesourando
+https://video20.mais.uol.com.br/16881937-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gozando Dentro" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gozando Dentro
+https://video29.mais.uol.com.br/16881704-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gozando Na Bundinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gozando Na Bundinha
+https://videohd1.mais.uol.com.br/16935452-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gozando Na Monica Mattos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gozando Na Monica Mattos
+https://video23.mais.uol.com.br/17044355-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gozando Pelo Cu" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gozando Pelo Cu
+https://video24.mais.uol.com.br/16816368-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gringo Faminto" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Gringo Faminto
+https://video25.mais.uol.com.br/16819593-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hora Extra" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Hora Extra
+https://videohd4.mais.uol.com.br/16877468-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inter-Racial na piscina" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Inter-Racial na piscina
+https://video23.mais.uol.com.br/16945820-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jardineiro Safado" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Jardineiro Safado
+https://video32.mais.uol.com.br/16816356-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jazz Duro Com As Gostosas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Jazz Duro Com As Gostosas
+https://video32.mais.uol.com.br/16926262-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jazz Duro Dando Conta Da Gringa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Jazz Duro Dando Conta Da Gringa
+https://video24.mais.uol.com.br/16919441-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juju Doidera E Mais Dois" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Juju Doidera E Mais Dois
+https://videohd3.mais.uol.com.br/16898488-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Julia Paes E Seu Big Macky" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Julia Paes E Seu Big Macky
+https://videohd7.mais.uol.com.br/16933606-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Julia Paes Encara A Potência Do Carlos Bazuca" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Julia Paes Encara A Potência Do Carlos Bazuca
+https://video20.mais.uol.com.br/16673218-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Juro Que Não Conto" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Juro Que Não Conto
+https://video18.mais.uol.com.br/16819598-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Bengala com Fome de Sexo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Kid Bengala com Fome de Sexo
+https://video18.mais.uol.com.br/16998375-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Bengala E A Morena Tatuada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Kid Bengala E A Morena Tatuada
+https://video23.mais.uol.com.br/17039391-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Bengala E A Novinha Sedenta" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Kid Bengala E A Novinha Sedenta
+https://video19.mais.uol.com.br/17039409-10-90.m3u8?
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Bengala E Suas Ninfetas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Kid Bengala E Suas Ninfetas
+https://video23.mais.uol.com.br/16685441-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kid Bengala Surpreende A Coroa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Kid Bengala Surpreende A Coroa
+https://video24.mais.uol.com.br/17040248-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lavando O Carro E Traindo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lavando O Carro E Traindo
+https://video18.mais.uol.com.br/16839598-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Levando Trolha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Levando Trolha
+https://video28.mais.uol.com.br/16827415-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loira Abusada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Loira Abusada
+https://video22.mais.uol.com.br/16951799-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loira Sensual" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Loira Sensual
+https://video31.mais.uol.com.br/16835956-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Loirinha Na Van" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Loirinha Na Van
+https://videohd3.mais.uol.com.br/16881905-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lésbico Sensual Country" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lésbico Sensual Country
+https://videohd4.mais.uol.com.br/16813853-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lésbico Sensual Inverno" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lésbico Sensual Inverno
+https://videohd4.mais.uol.com.br/16808820-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lésbico Sensual Lingerie Branca" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lésbico Sensual Lingerie Branca
+https://video28.mais.uol.com.br/16810563-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lésbico Sensual Na Banheira" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lésbico Sensual Na Banheira
+https://video19.mais.uol.com.br/16824987-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lésbico Sensual Na Fazenda" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Lésbico Sensual Na Fazenda
+https://video18.mais.uol.com.br/16819304-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Madrasta Gostosa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Madrasta Gostosa
+https://video23.mais.uol.com.br/16931316-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Massagem Com Tesão" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Massagem Com Tesão
+https://video21.mais.uol.com.br/16877754-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Massagistas Safadas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Massagistas Safadas
+https://videohd1.mais.uol.com.br/16941256-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masturbação Feminina" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Masturbação Feminina
+https://video28.mais.uol.com.br/16817379-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masturbação Feminino" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Masturbação Feminino
+https://video27.mais.uol.com.br/16817379-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masturbação Masculina" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Masturbação Masculina
+https://videohd2.mais.uol.com.br/16817131-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matheus Carrieri Em Um Dia De Sorte..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Matheus Carrieri Em Um Dia De Sorte...
+https://video29.mais.uol.com.br/16673277-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Matou aula e foi ao motel" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Matou aula e foi ao motel
+https://videohd2.mais.uol.com.br/16718693-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mecânica Sensual" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Mecânica Sensual
+https://video19.mais.uol.com.br/16805321-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Menage Com A Ninfetinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Menage Com A Ninfetinha
+https://videohd6.mais.uol.com.br/16937879-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Menage Só Com Porn Stars" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Menage Só Com Porn Stars
+https://video21.mais.uol.com.br/16932770-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mete Na Bundinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Mete Na Bundinha
+https://video18.mais.uol.com.br/16833539-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Minha Favorita" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Minha Favorita
+https://video30.mais.uol.com.br/16816359-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mirella Mansur Dando Gostoso" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Mirella Mansur Dando Gostoso
+https://videohd3.mais.uol.com.br/16919383-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monica Mattos Com O Negão" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Monica Mattos Com O Negão
+https://video28.mais.uol.com.br/16937219-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monica Mattos Em Um Anal Surreal" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Monica Mattos Em Um Anal Surreal
+https://videohd4.mais.uol.com.br/17003841-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monica Mattos Usando Os Pés" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Monica Mattos Usando Os Pés
+https://video18.mais.uol.com.br/16935218-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Moranguinho Da Valéria" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Moranguinho Da Valéria
+https://videohd7.mais.uol.com.br/16888533-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morena Ama Anal" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Morena Ama Anal
+https://videohd5.mais.uol.com.br/16955574-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morena Transando No Barco E Na Praia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Morena Transando No Barco E Na Praia
+https://videohd2.mais.uol.com.br/16924438-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Márcia Imperator E Matheus Carrieri Transando Na Chuva" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Márcia Imperator E Matheus Carrieri Transando Na Chuva
+https://videohd7.mais.uol.com.br/16685424-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Médico Safado" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Médico Safado
+https://video27.mais.uol.com.br/16988288-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ménage Com A Gueixa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ménage Com A Gueixa
+https://videohd5.mais.uol.com.br/16878073-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ménage Com Leitinho" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ménage Com Leitinho
+https://videohd6.mais.uol.com.br/16819597-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ménage Gringo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ménage Gringo
+https://video29.mais.uol.com.br/16816325-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mônica Mattos dando para a o doutor Oliver" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Mônica Mattos dando para a o doutor Oliver
+https://video19.mais.uol.com.br/16908548-10-70.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mônica Mattos E Ju Pantera Juntas E Com Tesão" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Mônica Mattos E Ju Pantera Juntas E Com Tesão
+https://video27.mais.uol.com.br/16673264-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Na Piscina E No Cu" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Na Piscina E No Cu
+https://video26.mais.uol.com.br/16943941-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nativa Insaciável" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Nativa Insaciável
+https://video26.mais.uol.com.br/16816370-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nego Catra E Mirella Mansur Fodendo No Sofá" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Nego Catra E Mirella Mansur Fodendo No Sofá
+https://video26.mais.uol.com.br/16895626-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Neném?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Neném?
+https://video28.mais.uol.com.br/16827429-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ninfetinha Daniella" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ninfetinha Daniella
+https://videohd6.mais.uol.com.br/16952742-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ninfetinha Delícia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ninfetinha Delícia
+https://video19.mais.uol.com.br/16824802-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ninfetinha Paulinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ninfetinha Paulinha
+https://video24.mais.uol.com.br/16943083-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Cu Da Ninfetinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Cu Da Ninfetinha
+https://video22.mais.uol.com.br/16945818-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Cu Da Paloma" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Cu Da Paloma
+https://video22.mais.uol.com.br/16945805-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Cuzinho Da Claudia" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Cuzinho Da Claudia
+https://videohd4.mais.uol.com.br/16941207-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Cuzinho Dela" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Cuzinho Dela
+https://videohd2.mais.uol.com.br/16943124-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Jeito E Com Vontade" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Jeito E Com Vontade
+https://video26.mais.uol.com.br/16945810-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Motel Com Kid Bengala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Motel Com Kid Bengala
+https://videohd2.mais.uol.com.br/17040261-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No Pares" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",No Pares
+https://video32.mais.uol.com.br/16827428-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Noiva Sensual" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Noiva Sensual
+https://video29.mais.uol.com.br/16801936-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Não Sobrou Orifício Vazio..." tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Não Sobrou Orifício Vazio...
+https://video18.mais.uol.com.br/16718719-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O anal da Babalu" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",O anal da Babalu
+https://videohd8.mais.uol.com.br/16892238-10-60.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Detetive Frota" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",O Detetive Frota
+https://video19.mais.uol.com.br/16936076-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Pegador - Episódio 1" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",O Pegador - Episódio 1
+https://video19.mais.uol.com.br/16799412-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Pegador - Episódio 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",O Pegador - Episódio 3
+https://videohd3.mais.uol.com.br/16824996-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="o psicólogo de casais" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",o psicólogo de casais
+https://videohd1.mais.uol.com.br/16951829-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="O Vencedora Do Oscar Do Pornô!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",O Vencedora Do Oscar Do Pornô!
+https://videohd3.mais.uol.com.br/16682571-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Oliver Fudendo Com A Manu" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Oliver Fudendo Com A Manu
+https://video20.mais.uol.com.br/16917189-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ousadia Na Dupla Penetração" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Ousadia Na Dupla Penetração
+https://video18.mais.uol.com.br/16939574-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paula Moreno E O Pirulito" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Paula Moreno E O Pirulito
+https://videohd5.mais.uol.com.br/16988291-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pedindo Reforço" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Pedindo Reforço
+https://video24.mais.uol.com.br/16819596-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peituda Com Dois Bem Dotados" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Peituda Com Dois Bem Dotados
+https://video22.mais.uol.com.br/16877394-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Peituda Dando Na Sala" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Peituda Dando Na Sala
+https://videohd2.mais.uol.com.br/16881729-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pirocada Dupla" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Pirocada Dupla
+https://video28.mais.uol.com.br/16824697-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pole Dance" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Pole Dance
+https://video20.mais.uol.com.br/16812139-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pov Com A Loira" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Pov Com A Loira
+https://videohd4.mais.uol.com.br/16892523-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Presentão!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Presentão!
+https://video17.mais.uol.com.br/16789009-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primeiro Anal Da Mari Saito" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Primeiro Anal Da Mari Saito
+https://videohd2.mais.uol.com.br/16902073-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primeiro Anal De Vivi" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Primeiro Anal De Vivi
+https://videohd2.mais.uol.com.br/16666238-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Primeiro Dia De Bobbi Star No Rio" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Primeiro Dia De Bobbi Star No Rio
+https://video22.mais.uol.com.br/16936067-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Priscilla Gosta Atrás - Priscilla Prado E Don Picone" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Priscilla Gosta Atrás - Priscilla Prado E Don Picone
+https://videohd3.mais.uol.com.br/16678699-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Profundamente Anal" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Profundamente Anal
+https://video23.mais.uol.com.br/16833568-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Putaria Da Fernandinha Fernandez" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Putaria Da Fernandinha Fernandez
+https://videohd7.mais.uol.com.br/16938584-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Que Cliente Mais Deliciosa Essa Mayara Rodrigues" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Que Cliente Mais Deliciosa Essa Mayara Rodrigues
+https://video28.mais.uol.com.br/16673251-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Que Eu Quero Rola”" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Que Eu Quero Rola”
+https://video22.mais.uol.com.br/16718779-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quero Foder!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Quero Foder!
+https://video31.mais.uol.com.br/16821111-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rabão Guloso" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Rabão Guloso
+https://video30.mais.uol.com.br/16821103-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rapidinha No Banheiro" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Rapidinha No Banheiro
+https://video28.mais.uol.com.br/16837552-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rapidinha No Escritório" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Rapidinha No Escritório
+https://videohd4.mais.uol.com.br/16792836-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rapidinha No Sofá" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Rapidinha No Sofá
+https://videohd1.mais.uol.com.br/16816372-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Relaxadinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Relaxadinha
+https://videohd1.mais.uol.com.br/16816326-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Revelações Anais Com Milena Santos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Revelações Anais Com Milena Santos
+https://video30.mais.uol.com.br/17029502-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rita Cadillac boqueteira" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Rita Cadillac boqueteira
+https://video19.mais.uol.com.br/16935220-10-80.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Safada E Malandrinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Safada E Malandrinha
+https://videohd2.mais.uol.com.br/16838283-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sandy Boquinha De Veludo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sandy Boquinha De Veludo
+https://video17.mais.uol.com.br/16816324-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sedendo Por Sexo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sedendo Por Sexo
+https://videohd3.mais.uol.com.br/16702525-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Será Que Ela Teve Os Desejos Realizados?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Será Que Ela Teve Os Desejos Realizados?
+https://video25.mais.uol.com.br/16998337-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Será Que Ela Tirou 10?" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Será Que Ela Tirou 10?
+https://videohd8.mais.uol.com.br/16718678-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sex City" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sex City
+https://videohd3.mais.uol.com.br/16687615-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexo Com Amizade" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexo Com Amizade
+https://video32.mais.uol.com.br/16908528-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexo Criminoso" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexo Criminoso
+https://videohd7.mais.uol.com.br/16914668-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexo Na Chuva" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexo Na Chuva
+https://video21.mais.uol.com.br/16949954-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexo Na Oficina" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexo Na Oficina
+https://video27.mais.uol.com.br/16816376-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexprivé Club - Programa 12" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexprivé Club - Programa 12
+https://video22.mais.uol.com.br/16888125-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sexprivé Club - Programa 3 Rogê Ferro" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sexprivé Club - Programa 3 Rogê Ferro
+https://video21.mais.uol.com.br/16838671-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Show De Bola" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Show De Bola
+https://video19.mais.uol.com.br/16682588-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sobrinha Safada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sobrinha Safada
+https://video21.mais.uol.com.br/16824891-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonho Com As Gostosas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sonho Com As Gostosas
+https://video26.mais.uol.com.br/16943997-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sou Mais As Louras" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Sou Mais As Louras
+https://video26.mais.uol.com.br/16682130-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suzana E Amigas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Suzana E Amigas
+https://video18.mais.uol.com.br/16687682-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tammy Gretchen E Sua Amigas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tammy Gretchen E Sua Amigas
+https://video28.mais.uol.com.br/16934427-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tapinha Na Bunda" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tapinha Na Bunda
+https://video23.mais.uol.com.br/16819589-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tarde Com A Gauchinha" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tarde Com A Gauchinha
+https://videohd3.mais.uol.com.br/16937107-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tatuada E Gostosa" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tatuada E Gostosa
+https://video28.mais.uol.com.br/16826870-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teddy – O Ursinho Sensual" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Teddy – O Ursinho Sensual
+https://videohd3.mais.uol.com.br/16791010-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teste anal da Carol Rox" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Teste anal da Carol Rox
+https://video27.mais.uol.com.br/16998346-10-70.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tesão Pelo Perigo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tesão Pelo Perigo
+https://videohd3.mais.uol.com.br/16824839-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thammy Gretchen E Sua Namorada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Thammy Gretchen E Sua Namorada
+https://video18.mais.uol.com.br/16932593-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toda Sua" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Toda Sua
+https://videohd5.mais.uol.com.br/16793553-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tons De Cinza" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tons De Cinza
+https://videohd4.mais.uol.com.br/16791352-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tons De Cinza Lésbico" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Tons De Cinza Lésbico
+https://videohd1.mais.uol.com.br/16815454-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Top Sexprivé - Danças Sensuais" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Top Sexprivé - Danças Sensuais
+https://videohd8.mais.uol.com.br/16835360-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Traição Por Anal" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Traição Por Anal
+https://video24.mais.uol.com.br/16877821-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Transa Ao Ar Livre" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Transa Ao Ar Livre
+https://video28.mais.uol.com.br/16898444-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Transa No Sofá Da Balada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Transa No Sofá Da Balada
+https://video29.mais.uol.com.br/16888599-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trepada Na Balada" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Trepada Na Balada
+https://video32.mais.uol.com.br/16819594-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trepando Com O Admirador" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Trepando Com O Admirador
+https://video26.mais.uol.com.br/16826793-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Troca De Fluídos 3 - Volume 3" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Troca De Fluídos 3 - Volume 3
+https://video28.mais.uol.com.br/16826783-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Um belo Inter-Racial" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Um belo Inter-Racial
+https://video20.mais.uol.com.br/16942157-10-50.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uma Lareira Um Sofá E Sexo" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Uma Lareira Um Sofá E Sexo
+https://video25.mais.uol.com.br/16877813-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vem Dar Uma Voltinha Nesse Uber Xxx" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Vem Dar Uma Voltinha Nesse Uber Xxx
+https://video29.mais.uol.com.br/16792830-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viciada Em Rola" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Viciada Em Rola
+https://videohd7.mais.uol.com.br/16824741-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Virando Os Olhos" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Virando Os Olhos
+https://videohd6.mais.uol.com.br/16816334-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivi Com Anal" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Vivi Com Anal
+https://video23.mais.uol.com.br/16687700-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vivian Mello Fazendo Sexo Anal!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Vivian Mello Fazendo Sexo Anal!
+https://videohd2.mais.uol.com.br/16934508-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizinhas Gostosas" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Vizinhas Gostosas
+https://video32.mais.uol.com.br/16685372-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Você Vai Querer Ficar Lá Para Sempre" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Você Vai Querer Ficar Lá Para Sempre
+https://video18.mais.uol.com.br/16793572-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voltinha De Cadillac" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",Voltinha De Cadillac
+https://video18.mais.uol.com.br/16827413-10-90.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="É Um Prato Para Comer Quente!" tvg-logo="https://i.imgur.com/I4Wdm4h.png" group-title="XXX - SEX PRIVÉ",É Um Prato Para Comer Quente!
+https://video28.mais.uol.com.br/16793548-10-90.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Anal
+http://live.redtraffic.xyz/anal.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Asian
+http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Rough
+http://live.redtraffic.xyz/rough.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Compilation
+http://live.redtraffic.xyz/compilation.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Brunette
+http://live.redtraffic.xyz/brunette.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Blonde
+http://live.redtraffic.xyz/blonde.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Gay
+http://live.redtraffic.xyz/gay.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Live Cams
+http://live.redtraffic.xyz/livecams.m3u8
+#EXTINF:-1 group-title="ADULT CHANNEL" tvg-logo="https://adultm3u.com/wp-content/uploads/2020/04/adult-300x95.png",ช่อง AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Milf
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Pornstars
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic Woman
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1, Peliculas VIP 1
+https://raw.githubusercontent.com/david2803/Iptv/main/V1p33.m3u
+#EXTINF:-1, Peliculas VIP 2
+https://raw.githubusercontent.com/david2803/Iptv/main/V%40r1%40d5.m3u
+#EXTINF:-1, Peliculas DRAMA
+https://raw.githubusercontent.com/david2803/Iptv/main/dr%40m9.m3u
+#EXTINF:-1, Peliculas FICCION
+https://raw.githubusercontent.com/david2803/Iptv/main/f1cc10n.m3u
+#EXTINF:-1, Peliculas ACCION
+https://github.com/david2803/Iptv/blob/main/k%26d_accion.m3u
+#EXTINF:-1, Peliculas COMEDIA
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_comedia.m3u
+#EXTINF:-1, Peliculas TERROR
+https://raw.githubusercontent.com/david2803/Iptv/main/k%26d_terror.m3u
+#EXTINF:-1, Peliculas MARVEL
+https://raw.githubusercontent.com/david2803/Iptv/main/m%40rv31.m3u
+#EXTINF:-1, Peliculas RECUERDOS
+https://raw.githubusercontent.com/david2803/Iptv/main/r0m%40nt1c5.m3u
+#EXTINF:-1, Fantasia
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/FANTASIA.m3u
+#EXTINF:-1, Infantil
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
+#EXTINF:-1, Mexicanas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/MEXICANAS.m3u
+#EXTINF:-1, Romanticas
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/ROMANTICAS.m3u
+#EXTINF:-1, Super Heroes
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/SUPER_HEROES.m3u
+#EXTINF:-1, Terror
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/TERROR.m3u
+#EXTINF:-1, Coleccion latino
+https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/colecciones/studio-ghibli-latino.m3u
+#EXTINF:-1, Coleccion Crepusculo
+https://dl.dropbox.com/s/ew830ge1x0ixkre/COLECREPU.M3U
+#EXTINF:-1, Coleccion Fragmentado
+https://dl.dropbox.com/s/h0xay3zjszdo6ua/COLEFR4GMENT4DO.M3U
+#EXTINF:-1, Coleccion 007
+https://dl.dropbox.com/s/bsk3yxqgazg79s0/COLE007.M3U
+#EXTINF:-1, Coleccion Destino Final
+https://dl.dropbox.com/s/ow0yowq2f6hfi39/COLEDESTINO.M3U
+#EXTINF:-1, Coleccion Maze runner
+https://dl.dropbox.com/s/1ztanzi5mufm7e0/COLEMAZE.M3U
+#EXTINF:-1, Coleccion Un detective suelto en Hollywood
+https://dl.dropbox.com/s/tp3pqy7uazah11v/COLEDETECTIVESUELTO.M3U
+#EXTINF:-1, Coleccion Hombres de Negro
+https://dl.dropbox.com/s/57o6kcnj0f2x89f/COLEHOMBR3SDENEGRO.M3U
+#EXTINF:-1, Coleccion Resident evil
+https://dl.dropbox.com/s/92t06xo981701v3/COLERESIDENT3VIL.M3U
+#EXTINF:-1, Coleccion Harry Potter
+https://dl.dropbox.com/s/s015fswwaoast67/COLEHARRYPOTT3R.M3U
+#EXTINF:-1, Coleccion Los juegos del hambre
+https://dl.dropbox.com/s/g2f6qe23hoi2b93/COLELOSJUEGOSDELH4MBRE.M3U
+#EXTINF:-1, Coleccion Jurasic Park
+https://dl.dropbox.com/s/v1um7szqrq85f8q/COLEJURASSIC.M3U
+#EXTINF:-1, Coleccion Depredador
+https://dl.dropbox.com/s/uo7u3hyqcw30w9a/COLEDEPREDADOR.M3U
+#EXTINF:-1, Coleccion Pesadilla en Elm Street
+https://dl.dropbox.com/s/ip05rhs5rb34sax/COLEPESADILLAENELM.M3U
+#EXTINF:-1, Coleccion Blade
+https://dl.dropbox.com/s/hh9ur2duwizthxv/COLEBLAD3.M3U
+#EXTINF:-1, Coleccion Saw
+https://dl.dropbox.com/s/racjg6rhpbwcfos/COLESAW.M3U
+#EXTINF:-1, Coleccion Rec
+https://dl.dropbox.com/s/seqvp2qasjt8ai0/COLEREC.M3U
+#EXTINF:-1, Coleccion Terminator
+https://dl.dropbox.com/s/g694rv3um7bsfe5/COLETERMINATOR.M3U
+#EXTINF:-1, Coleccion Los Focker
+https://dl.dropbox.com/s/1aagcamf6w3b35n/COLETHEFOCKERS.M3U
+#EXTINF:-1, Coleccion Matrix
+https://dl.dropbox.com/s/nhorkl75vfi9q24/COLEMATRIX.M3U
+#EXTINF:-1, Coleccion Semana Santa
+https://dl.dropbox.com/s/nqbaawh0e0ahi33/COLESEMANASANTA.M3U
+#EXTINF:-1, Pluto TV
+https://dl.dropbox.com/s/slhsvvf5i9387z5/PLUTOTV.M3U
+#EXTINF:-1, TV MUNDIAL 1
+https://raw.githubusercontent.com/david2803/Iptv/main/tv0nl1n3.m3u
+#EXTINF:-1, TV MUNDIAL 2
+https://raw.githubusercontent.com/david2803/Iptv/main/tvAuxiliar000.m3u
+#EXTINF:-1, TV SUDAMERICA
+https://raw.githubusercontent.com/david2803/Iptv/main/K%26D_tv.m3u
+#EXTINF:-1, DOCUMENTALES
+https://raw.githubusercontent.com/david2803/Iptv/main/53riesD0cu3ntal3s.m3u
+#EXTINF:-1, TV ONLINE
+https://raw.githubusercontent.com/david2803/Iptv/main/K%26D_tv.m3u
+#EXTINF:-1, DOCUMENTALES Y MAS
+https://raw.githubusercontent.com/david2803/Iptv/main/53riesD0cu3ntal3s.m3u
+#EXTINF:-1, Sports
+https://raw.githubusercontent.com/LeoDe1vid/FutLibre_IPTV/main/Sports_channels.m3u8
+
+
+#EXTINF:-1,iptv premium
+
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", - 252 ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", - 290 CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 25-292 Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 27-286 NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 29-236 DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 30-214 TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", 31-370 TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:0 type="stream" channelId="188" group="Lista 6 Guatemala", SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:0 type="stream" channelId="1954" group="Lista 6 Guatemala", CANAL DE LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:0 type="stream" channelId="2659" group="Lista 6 Guatemala", Multimedios
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:0 type="stream" channelId="2698" group="Lista 6 Guatemala", Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:0 type="stream" channelId="265" group="Lista 6 Guatemala", MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:0 type="stream" channelId="187" group="Lista 6 Guatemala", Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:0 type="stream" channelId="1573" group="Lista 6 Guatemala", AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" group="Lista 6 Guatemala", FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:0 type="stream" channelId="1208" group="Lista 6 Guatemala", A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:0 type="stream" channelId="67" group="Lista 6 Guatemala", TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:0 type="stream" channelId="1200" group="Lista 6 Guatemala", Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:0 type="stream" channelId="1188" group="Lista 6 Guatemala", E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", AprendeTV2
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:0 type="stream" channelId="3771" group="Lista 6 Guatemala", IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:0 type="stream" channelId="57" group="Lista 6 Guatemala", Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:0 type="stream" channelId="56" group="Lista 6 Guatemala", NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:0 type="stream" channelId="1455" group="Lista 6 Guatemala", History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:0 type="stream" channelId="1201" group="Lista 6 Guatemala", History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:0 type="stream" channelId="344" group="Lista 6 Guatemala", ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" group="Lista 6 Guatemala", ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:0 type="stream" channelId="355" group="Lista 6 Guatemala", ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:0 type="stream" channelId="3627" group="Lista 6 Guatemala", TVC
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:0 type="stream" channelId="291" group="Lista 6 Guatemala", MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Films
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" group="Lista 6 Guatemala", StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:0 type="stream" channelId="1719" group="Lista 6 Guatemala", Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:0 type="stream" channelId="255" group="Lista 6 Guatemala", Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:0 type="stream" channelId="1959" group="Lista 6 Guatemala", BANDAMAX
+http://181.78.105.146:2000/play/a08h/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", CTV CANAL
+http://181.78.105.146:2000/play/a08s/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", Canal 27 GT
+http://181.78.105.146:2000/play/a08x/index.m3u8
+#EXTINF:0 type="stream" channelId="1952" group="Lista 6 Guatemala", DE PELICULA
+http://181.78.105.146:2000/play/a090/index.m3u8
+#EXTINF:0 type="stream" channelId="1961" group="Lista 6 Guatemala", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:0 type="stream" channelId="2502" group="Lista 6 Guatemala", GOLDEN EDGE
+http://181.78.105.146:2000/play/a08k/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", SKY
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", TELENOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:0 type="stream" channelId="3798" group="Lista 6 Guatemala", TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:0 type="stream" channelId="3804" group="Lista 6 Guatemala", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:0 type="stream" channelId="388" group="Lista 6 Guatemala", UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Lista 6 Guatemala", canal 13 Guate
+http://181.78.105.146:2000/play/a08p/index.m3u8
