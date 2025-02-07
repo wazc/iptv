@@ -82,8 +82,10 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-chno="509" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Cinemax.jpg" group-title="Cine",Cinemax
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/8
+#EXTINF:-1 tvg-chno="524" tvg-id="lch6491" tvg-name="HBO" group-title="Peliculas & Series" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png", HBO 2 HD
+http://38.41.8.1:8000/play/a05u
 #EXTINF:-1 tvg-chno="525" tvg-id="lch6491" tvg-name="HBO 2" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbo-2.png", HBO 2 HD
-http://168.181.122.234:8000/play/a02p/index.m3u8
+http://38.41.8.1:8000/play/a05h
 #EXTINF:-1 tvg-chno="534" tvg-id="lch6493" tvg-name="HBO FAMILY" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbofamily.png", HBO FAMILY HD
 http://168.181.122.234:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png" group-title="Cine",Universal Premiere
