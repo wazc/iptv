@@ -135,9 +135,9 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312768
 #EXTINF:-1 tvg-chno="734" tvg-id="ANIMAL PLANET HD.pe" tvg-name="LA: Animal Planet" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Animal_Planet_2018.png" group-title="Cultura",Animal Planet
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312747
 #EXTINF:-1 tvg-chno="742" tvg-id="HistoryChannel.lat" tvg-name="LA: History Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp" group-title="Cultura",History Channel
-http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L4EB7ENA1Gt5RUzPtnfQdJ8/ts
+http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 tvg-chno="744" tvg-id="HISTORY 2.pe" tvg-name="LA: History 2" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/History2.jpeg" group-title="Cultura",History 2
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/53483
+http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-chno="770" tvg-id="DW.lat" tvg-name="INT: DW Español" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/DW.jpeg" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
