@@ -19,7 +19,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
 #EXTINF:-1 tvg-chno="14" tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/GOLPERU.png", GOL Peru
 http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/willaxhd.jpg" group-title="Peru",Willax TV
-https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+http://200.60.124.19:29000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="ATV+.pe" tvg-name="PE: ATV +" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ATV%2B.png" group-title="Peru",ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="EXITOSA TV.pe" tvg-name="PE: Exitosa TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg" group-title="Peru",Exitosa TV
@@ -88,7 +88,7 @@ http://168.181.122.234:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="571" tvg-id="UniversalPremiere.lat" tvg-name="LA: Universal Premiere" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png" group-title="Cine",Universal Premiere
 http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-chno="604" tvg-id="Liga1.pe" tvg-name="PE: Liga 1 MAX" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/liga-1-max.png" group-title="Deportes",Liga 1 MAX
-http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8457
+http://177.53.155.236:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-chno="610" tvg-id="DirectvSports.lat" tvg-name="LA: Directv Sports" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/DirecTV_Sports.png" group-title="Deportes",Directv Sports
 http://daleplaytv.vip:80/play/7cNdKItVHkDP6l2mENP5L9tctIZ7KEFGe41Zt1nyWGw/ts
 #EXTINF:-1 tvg-chno="612" tvg-id="DirectvSports2.lat" tvg-name="LA: Directv Sports 2" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/DSports_2_2022.webp" group-title="Deportes",Directv Sports 2
