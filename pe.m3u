@@ -46,6 +46,8 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312825
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312751
 #EXTINF:-1 tvg-chno="210" tvg-id="AMC HD.pe" tvg-name="LA: AMC" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/AMC.jpeg" group-title="Cine",AMC
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1283
+#EXTINF:-1 tvg-chno="213" tvg-id="TNT HD.pe" tvg-name="LA: TNT" tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tnt.png" group-title="Entretenimiento",TNT Series
+http://181.205.130.194:4000/play/a06n
 #EXTINF:-1 tvg-chno="213" tvg-id="TNT SERIES HD.pe" tvg-name="LA: TNT Series" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/TNT-SERIES.png" group-title="Entretenimiento",TNT Series
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/1248
 #EXTINF:-1 tvg-chno="217" tvg-id="FX HD.pe" tvg-name="LA: FX" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/FX.jpg" group-title="Cine",FX
@@ -53,7 +55,7 @@ http://200.115.96.66:4000/play/a0he/index.m3u8
 #EXTINF:-1 tvg-chno="223" tvg-id="INVESTIGATION DISCOVERY.pe" tvg-name="LA: Investigation Discovery" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png" group-title="Cultura",Investigation Discovery
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312802
 #EXTINF:-1 tvg-chno="226" tvg-id="CanalEstrellas.lat" tvg-name="LA: Canal Estrellas" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/las-estrellas.png" group-title="Novelas",Canal Estrellas
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/70905
+http://181.78.106.127:9000/play/ca011/index.m3u8
 #EXTINF:-1 tvg-chno="227" tvg-id="lch6518" tvg-name="Tl Novelas" group-title="Peliculas & Series" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tlnovelas.png", TL NOVELAS HD
 http://181.78.8.90:16123/play/ch45
 #EXTINF:-1 tvg-chno="228" tvg-id="Lifetime.lat" tvg-name="LA: Lifetime" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Lifetime_Logo.png" group-title="Entretenimiento",Lifetime
@@ -69,7 +71,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312813
 #EXTINF:-1 tvg-chno="309" tvg-id="NICK JR OTT.pe" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312814
 #EXTINF:-1 tvg-chno="312" tvg-id="DisneyChannel.lat" tvg-name="LA: Disney Channel" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Disney_Channel_logo.png" group-title="Infantil",Disney Channel
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312774
+http://181.78.106.127:9000/play/ca053/index.m3u8
 #EXTINF:-1 tvg-chno="315" tvg-id="DisneyJr.lat" tvg-name="LA: Disney Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp" group-title="Infantil",Disney Jr
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312775
 #EXTINF:-1 tvg-chno="330" tvg-id="DISCOVERY KIDS HD.pe" tvg-name="LA: Discovery Kids" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png" group-title="Infantil",Discovery Kids
@@ -77,7 +79,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312769
 #EXTINF:-1 tvg-chno="503" tvg-id="Golden.lat" tvg-name="LA: Golden" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Golden_2020.webp" group-title="Cine",Golden
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312797
 #EXTINF:-1 tvg-chno="507" tvg-id="CINECANAL HD.pe" tvg-name="LA: Cinecanal" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/cinecanal.png" group-title="Cine",Cinecanal
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312763
+http://nxt.plus:8080/jesus01/jesus01/2833
 #EXTINF:-1 tvg-chno="508" tvg-id="STUDIO UNIVERSAL.pe" tvg-name="LA: Studio Universal" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png" group-title="Cine",Studio Universal
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312827
 #EXTINF:-1 tvg-chno="509" tvg-id="CINEMAX HD.pe" tvg-name="LA: Cinemax" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Cinemax.jpg" group-title="Cine",Cinemax
