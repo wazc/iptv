@@ -8,7 +8,9 @@ http://200.60.124.19:29000/play/a008/index.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="PANAMERICANA TELEVISION HD.pe" tvg-name="PE: Panamericana" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png" group-title="Peru",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1 tvg-chno="7" tvg-id="TV PERU HD.pe" tvg-name="PE: TVPeru" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg" group-title="Peru",TVPeru
-https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-chno="7.1" tvg-id="TV PERU Internacional" tvg-name="PE: TVPeru" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg" group-title="Peru",TVPeru
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 tvg-chno="9" tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png" group-title="Peru",ATV
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
 #EXTINF:-1 tvg-chno="10" tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/rpp.jpeg" group-title="Peru",RPP TV
