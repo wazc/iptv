@@ -37,7 +37,7 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-id="STAR CHANNEL HD.pe" tvg-name="LA: Star Channel" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png" group-title="Cine",Star Channel
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312789
 #EXTINF:-1 tvg-chno="206" tvg-id="WARNER CHANNEL HD.pe" tvg-name="LA: Warner" audio-track=1 tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Warner.jpeg" group-title="Cine",Warner
-http://168.181.122.234:8000/play/a00w/index.m3u8
+http://200.60.124.19:29000/play/a013
 #EXTINF:-1 tvg-chno="207" tvg-id="A&E.lat" tvg-name="LA: A&E" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png" group-title="Entretenimiento",A&E
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312756
 #EXTINF:-1 tvg-chno="208" tvg-id="SONY.pe" tvg-name="LA: Sony" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png" group-title="Cine",Sony
@@ -65,7 +65,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312801
 #EXTINF:-1 tvg-chno="231" tvg-id="Telemundo.lat" tvg-name="LA: Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Telemundo.jpeg" group-title="Novelas",Telemundo Internacional
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8351
 #EXTINF:-1 tvg-chno="304" tvg-id="Cartoon Network HD.pe" tvg-name="LA: Cartoon Network" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/CartoonNetwork.jpg" group-title="Infantil",Cartoon Network
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/132707
+http://181.78.105.146:2000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-chno="308" tvg-id="NICKELODEON.pe" tvg-name="LA: Nickelodeon" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png" group-title="Infantil",Nickelodeon
 http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312813
 #EXTINF:-1 tvg-chno="309" tvg-id="NICK JR OTT.pe" tvg-name="LA: Nick Jr" tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nick_Jr._2009.png" group-title="Infantil",Nick Jr
