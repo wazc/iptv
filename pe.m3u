@@ -97,7 +97,7 @@ http://181.205.130.194:4000/play/a0dr
 http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-name="PE: Liga 1 MAX"tvg-id="Liga1.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/liga-1-max.png"tvg-chno="604"group-title="Deportes",Liga 1 MAX
 http://177.53.155.236:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-name="Hstory Channel (SD)"tvg-id="Hstory Channel (SD)"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp"tvg-chno="742"group-title="Cultura",Hstory Channel (SD)
+#EXTINF:-1 tvg-name="Hstory Channel (SD)"tvg-id="Hstory Channel (SD)"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/historype.jpg"tvg-chno="742"group-title="Cultura",Hstory Channel (SD)
 http://181.78.105.146:2000/play/a017/index.m3u8
 #EXTINF:-1 tvg-name="INT: DW Español"tvg-id="DW.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/DW.jpeg"tvg-chno="770"group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
