@@ -14,7 +14,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=6735889
 #EXTINF:-1 tvg-name="PE: Global TV"tvg-id="Global.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/globaltv.jpg"tvg-chno="13"group-title="Peru",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8?uid=6735889
 #EXTINF:-1 tvg-name="PE: Willax TV"tvg-id="Willax.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/willaxhd.jpg"tvg-chno="16"group-title="Peru",Willax TV
-http://200.60.124.19:29000/play/a06s/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?uid=6735889
 #EXTINF:-1 tvg-name="PE: ATV +"tvg-id="ATV+.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ATV%2B.png"tvg-chno="32"group-title="Peru",ATV +
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-name="PE: Exitosa TV"tvg-id="EXITOSA TV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg"tvg-chno="34"group-title="Peru",Exitosa TV
