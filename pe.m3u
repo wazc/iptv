@@ -1,85 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PE: Latina"tvg-id="LATINA.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Latina.png"tvg-chno="2"group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="PE: America"tvg-id="AMERICA TELEVISION HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png"tvg-chno="4"group-title="Peru",America
+#EXTINF:-1 tvg-name="PE: America"tvg-id="AMERICA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png"tvg-chno="4"group-title="Peru",America
 http://200.60.124.19:29000/play/a008/index.m3u8
-#EXTINF:-1 tvg-name="PE: Panamericana"tvg-id="PANAMERICANA TELEVISION HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png"tvg-chno="5"group-title="Peru",Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: TVPeru"tvg-id="TV PERU HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg"tvg-chno="7"group-title="Peru",TVPeru
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 tvg-name="PE: TV PERU Internacional"tvg-id="TV PERU Internacional"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg"tvg-chno="7.1"group-title="Peru",TVPeru
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 tvg-name="PE: ATV"tvg-id="ATV.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/ATV_2018.png"tvg-chno="9"group-title="Peru",ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: Global TV"tvg-id="Global.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/globaltv.jpg"tvg-chno="13"group-title="Peru",Global TV
-https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: Willax TV"tvg-id="Willax.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/willaxhd.jpg"tvg-chno="16"group-title="Peru",Willax TV
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: ATV +"tvg-id="ATV+.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ATV%2B.png"tvg-chno="32"group-title="Peru",ATV +
-https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-name="PE: Exitosa TV"tvg-id="EXITOSA TV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg"tvg-chno="34"group-title="Peru",Exitosa TV
+#EXTINF:-1 tvg-name="PE: Panamericana"tvg-id="PANAMERICANA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png"tvg-chno="5"group-title="Peru",Panamericana
+https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Exitosa TV"tvg-id="EXITOSA TV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg"tvg-chno="6"group-title="Peru",Exitosa TV
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: Karibeña TV"tvg-id="Karibeña.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Karibeña.jpg"tvg-chno="96"group-title="Peru",Karibeña TV
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=6735889
-#EXTINF:-1 tvg-name="PE: Agro TV"tvg-id="AgroTV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/TVAgro.jpeg"tvg-chno="97"group-title="Peru",Agro TV
+#EXTINF:-1 tvg-name="PE: TV Peru"tvg-id="TV PERU"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg"tvg-chno="7"group-title="Peru",TV Peru
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: TV PERU Internacional"tvg-id="TV PERU Internacional"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/tvperu.jpg"tvg-chno="7.1"group-title="Peru",TV Peru Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8?checkedby:iptvcat.org
+#EXTINF:-1 tvg-name="PE: Willax TV"tvg-id="Willax.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/willaxhd.jpg"tvg-chno="8"group-title="Peru",Willax TV
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: ATV"tvg-id="ATV"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/atvpe.jpg"tvg-chno="9"group-title="Peru",ATV
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: ATV+"tvg-id="ATV+"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829811800/84e17b3b3eaf_480_270.png"tvg-chno="9.1"group-title="Peru",ATV +
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: ATV Sur"tvg-id="ATV Sur"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895367519/57dbdf5188f3_480_270.png"tvg-chno="10"group-title="Peru",ATV Sur
+https://live-evg25.tv360.bitel.com.pe/bitel/atvsur/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Global TV"tvg-id="Global.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/globaltv.jpg"tvg-chno="13"group-title="Peru",Global TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: La Tele"tvg-id="La Tele"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/15/05/1736895378330/a71e8fedf788_480_270.png"tvg-chno="18"group-title="Peru",La Tele
+https://live-evg25.tv360.bitel.com.pe/bitel/latele/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Milenial TV"tvg-id="Milenial TV"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_480_270.png"tvg-chno="89"group-title="Peru",Milenial TV
+https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: TELELIMA"tvg-id="Telilima"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687639950/81d12291ceee_480_270.png"tvg-chno="90"group-title="Peru",Telelima
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: FMH Movies"tvg-id="FMH Movies"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png"tvg-chno="91"group-title="Peru",FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: FMH Kids"tvg-id="FMH Kids"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png"tvg-chno="92"group-title="Peru",FMH Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Karibeña TV"tvg-id="Karibeña.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Karibeña.jpg"tvg-chno="93"group-title="Peru",Karibeña TV
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Agro TV"tvg-id="AgroTV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/TVAgro.jpeg"tvg-chno="94"group-title="Peru",Agro TV
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-#EXTINF:-1 tvg-name="PE: Antares TV"tvg-id="AntaresTV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/AntaresTV.png"tvg-chno="98"group-title="Peru",Antares TV
+#EXTINF:-1 tvg-name="PE: Antares TV"tvg-id="AntaresTV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/AntaresTV.png"tvg-chno="95"group-title="Peru",Antares TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-name="PE: Via Altomayo"tvg-id="ViaAltomayo.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ViaAltomayo.jpg"tvg-chno="99"group-title="Peru",Via Altomayo
+#EXTINF:-1 tvg-name="PE: Via Altomayo"tvg-id="ViaAltomayo.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/ViaAltomayo.jpg"tvg-chno="96"group-title="Peru",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-name="LA: Star Channel"tvg-id="STAR CHANNEL HD.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Star_Channel_2021.png"tvg-chno="202"group-title="Cine",Star Channel
+#EXTINF:-1 tvg-name="PE: TV Norte"tvg-id="TV Norte"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png"tvg-chno="97"group-title="Peru",TV Norte
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: Piura TV"tvg-id="Piura TV"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png"tvg-chno="98"group-title="Peru",Piura TV
+https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
+#EXTINF:-1 tvg-name="PE: TOP Latino"tvg-id="TOP Latino"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg"tvg-chno="99"group-title="Peru",TOP Latino
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1 tvg-name="LA: Star Channel"tvg-id="STAR CHANNEL HD.pe"tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/656f1dc7559d92d610980c7b_star-channel.jpeg"tvg-chno="202"group-title="Cine",Star Channel
 http://200.60.124.19:29000/play/a01r
 #EXTINF:-1 tvg-name="LA: Warner"tvg-id="WARNER CHANNEL HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Warner.jpeg"tvg-chno="206"group-title="Cine",Warner
-http://200.60.124.19:29000/play/a013
-#EXTINF:-1 tvg-name="LA: A&E"tvg-id="A&E.lat"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/A&E_2008.png"tvg-chno="207"group-title="Entretenimiento",A&E
+http://200.59.188.3:8000/play/a00h
+#EXTINF:-1 tvg-name="LA: A&E"tvg-id="A&E.lat"tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f797b9a9903b8ff494_aande.jpeg"tvg-chno="207"group-title="Entretenimiento",A&E
 http://181.78.106.127:9000/play/ca086/index.m3u8
-#EXTINF:-1 tvg-name="LA: Sony"tvg-id="SONY.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Sony_Channel_2019.png"tvg-chno="208"group-title="Cine",Sony
+#EXTINF:-1 tvg-name="LA: Sony (SD)"tvg-id="SONY (SD)"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3e/39/79/3e397976-6096-eae3-f788-e331003b2012/AppIcon-1x_U007emarketing-0-6-0-85-220.png/256x256bb.jpg"tvg-chno="208"group-title="Cine",Sony (SD)
 http://200.60.124.19:29000/play/a026
-#EXTINF:-1 tvg-name="LA: AXN"tvg-id="AXN.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/AXN_2015.png"tvg-chno="209"group-title="Entretenimiento",AXN
-http://200.60.124.19:29000/play/a027
+#EXTINF:-1 tvg-name="LA: AXN"tvg-id="AXN.pe"tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6e38380f97a74054b16_axn.jpeg"tvg-chno="209"group-title="Entretenimiento",AXN
+http://181.78.106.127:9000/play/ca085/index.m3u8
 #EXTINF:-1 tvg-name="LA: AMC"tvg-id="AMC HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/AMC.jpeg"tvg-chno="210"group-title="Cine",AMC
 http://nxt.plus:8080/jesus01/jesus01/24818
-#EXTINF:-1 tvg-name="LA: TNT"tvg-id="TNT HD.pe"tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tnt.png"tvg-chno="213"group-title="Entretenimiento",TNT Series
-http://181.205.130.194:4000/play/a06n
+#EXTINF:-1 tvg-name="LA: TNT"tvg-id="TNT HD.pe"tvg-logo="https://davinci.zappingtv.com/gato/media/450/canales/white/tnt.png"tvg-chno="213"group-title="Entretenimiento",TNT
+http://190.61.42.218:9000/play/a060
 #EXTINF:-1 tvg-name="LA: FX"tvg-id="FX HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/FX.jpg"tvg-chno="217"group-title="Cine",FX
 http://200.115.96.66:4000/play/a0he/index.m3u8
-#EXTINF:-1 tvg-name="LA: Investigation Discovery"tvg-id="INVESTIGATION DISCOVERY.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_ID_2020.png"tvg-chno="223"group-title="Cultura",Investigation Discovery
+#EXTINF:-1 tvg-name="LA: Investigation Discovery (SD)"tvg-id="Investigation Discovery (SD)"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/idbr.jpg"tvg-chno="223"group-title="Cultura",Investigation Discovery (SD)
 http://181.78.105.146:2000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-name="LA: Canal Las Estrellas"tvg-id="Canal Las Estrellas.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/las-estrellas.png"tvg-chno="226"group-title="Novelas",Canal Estrellas
 http://181.78.106.127:9000/play/ca011/index.m3u8
 #EXTINF:-1 tvg-name="LA: Telemundo Internacional"tvg-id="Telemundo.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Telemundo.jpeg"tvg-chno="231"group-title="Novelas",Telemundo Internacional
 http://200.60.124.19:29000/play/a01g
-#EXTINF:-1 tvg-name="LA: Cartoon Network"tvg-id="Cartoon Network HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/CartoonNetwork.jpg"tvg-chno="304"group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-name="LA: Cartoon Network (SD)"tvg-id="Cartoon Network (SD)"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/CartoonNetwork.jpg"tvg-chno="304"group-title="Infantil",Cartoon Network (SD)
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-name="LA: Nickelodeon"tvg-id="NICKELODEON.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Nickelodeon_2009.png"tvg-chno="308"group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-name="LA: Nickelodeon (SD)"tvg-id="Nickelodeon (SD)"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/nickelodeon.jpg"tvg-chno="308"group-title="Infantil",Nickelodeon (SD)
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 tvg-name="LA: Disney Channel"tvg-id="DisneyChannel.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Disney_Channel_logo.png"tvg-chno="312"group-title="Infantil",Disney Channel
-http://181.78.106.127:9000/play/ca053/index.m3u8
-#EXTINF:-1 tvg-name="LA: Disney Jr"tvg-id="DisneyJr.lat"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Disney_Junior_2020.webp"tvg-chno="315"group-title="Infantil",Disney Jr
+http://190.61.42.218:9000/play/a01a
+#EXTINF:-1 tvg-name="LA: Disney Jr (SD)"tvg-id="DisneyJr (SD)"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneyjr.jpg"tvg-chno="315"group-title="Infantil",Disney Jr (SD)
 http://181.78.105.146:2000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-name="LA: Discovery Kids"tvg-id="DISCOVERY KIDS HD.pe"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Discovery_Kids_2021.png"tvg-chno="330"group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-name="LA: Discovery Kids (SD)"tvg-id="DISCOVERY KIDS (SD)"tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6909d391852e062fe3b_discoverykids.jpeg"tvg-chno="330"group-title="Infantil",Discovery Kids (SD)
 http://181.78.105.146:2000/play/a015/index.m3u8
-#EXTINF:-1 tvg-name="LA: Golden"tvg-id="Golden.lat"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/Golden_2020.webp"tvg-chno="503"group-title="Cine",Golden
+#EXTINF:-1 tvg-name="LA: Golden"tvg-id="Golden.lat"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/goldenec.jpg"tvg-chno="503"group-title="Cine",Golden
 http://38.44.109.41:8003/play/a001
 #EXTINF:-1 tvg-name="LA: Cinecanal"tvg-id="CINECANAL HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/cinecanal.png"tvg-chno="507"group-title="Cine",Cinecanal
 http://nxt.plus:8080/jesus01/jesus01/2833
 #EXTINF:-1 tvg-name="LA: Studio Universal"tvg-id="STUDIO UNIVERSAL.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png"tvg-chno="508"group-title="Cine",Studio Universal
 http://181.78.106.127:9000/play/ca074/index.m3u8
-#EXTINF:-1 tvg-name="LA: Cinemax"tvg-id="CINEMAX HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Cinemax.jpg"tvg-chno="509"group-title="Cine",Cinemax
-http://181.78.106.127:9000/play/ca079/index.m3u8
-#EXTINF:-1 tvg-name="HBO"tvg-id="lch6491"tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png"tvg-chno="524"group-title="Peliculas & Series",HBO 2 HD
-http://38.41.8.1:8000/play/a05u
-#EXTINF:-1 tvg-name="HBO 2"tvg-id="lch6491"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbo-2.png"tvg-chno="525"group-title="Peliculas & Series",HBO 2 HD
-http://38.41.8.1:8000/play/a05h
-#EXTINF:-1 tvg-name="HBO FAMILY"tvg-id="lch6493"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbofamily.png"tvg-chno="534"group-title="Peliculas & Series",HBO FAMILY HD
+#EXTINF:-1 tvg-name="LA: Cinemax (SD)"tvg-id="CINEMAX HD (SD)"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Cinemax.jpg"tvg-chno="509"group-title="Cine",Cinemax (SD)
+http://200.60.124.19:29000/play/a025
+#EXTINF:-1 tvg-name="LA: HBO (SD)"tvg-id="HBO (SD)"tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png"tvg-chno="524"group-title="Peliculas & Series",HBO (SD)
+http://181.204.79.182:8202/play/a01z
+#EXTINF:-1 tvg-name="HBO +"tvg-id="HBO +"tvg-logo="https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboplus.jpg?fit=256%2C256&ssl=1"tvg-chno="525"group-title="Peliculas & Series",HBO +
+http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1 tvg-name="HBO Xtreme"tvg-id="HBO Xtreme"tvg-logo="https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboxtreme.jpg?fit=256%2C256&ssl=1"tvg-chno="526"group-title="Peliculas & Series",HBO Xtreme
+http://200.92.227.238:8000/play/a0mu/index.m3u8
+#EXTINF:-1 tvg-name="HBO FAMILY (SD)"tvg-id="HBO FAMILY (SD)"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbofamily.png"tvg-chno="534"group-title="Peliculas & Series",HBO FAMILY (SD)
 http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1 tvg-name="LA: Universal Premiere"tvg-id="UniversalPremiere.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png"tvg-chno="571"group-title="Cine",Universal Premiere
 http://200.115.96.66:4000/play/a035/index.m3u8
 #EXTINF:-1 tvg-name="PE: Liga 1 MAX"tvg-id="Liga1.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/liga-1-max.png"tvg-chno="604"group-title="Deportes",Liga 1 MAX
 http://177.53.155.236:8000/play/a0bt/index.m3u8
-#EXTINF:-1 tvg-name="LA: History Channel"tvg-id="HistoryChannel.lat"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp"tvg-chno="742"group-title="Cultura",History Channel
+#EXTINF:-1 tvg-name="Hstory Channel (SD)"tvg-id="Hstory Channel (SD)"tvg-logo="https://juliocesarra.github.io/iptv-pe/LogosTV/History_2021.webp"tvg-chno="742"group-title="Cultura",Hstory Channel (SD)
 http://181.78.105.146:2000/play/a017/index.m3u8
-#EXTINF:-1 tvg-name="LA: History 2"tvg-id="HISTORY 2.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/History2.jpeg"tvg-chno="744"group-title="Cultura",History 2
-http://181.78.105.146:2000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="INT: DW Español"tvg-id="DW.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/DW.jpeg"tvg-chno="770"group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
