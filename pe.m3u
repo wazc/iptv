@@ -16,7 +16,7 @@ http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/312749
 #EXTINF:-1 tvg-chno="10" tvg-id="RPP TV.pe" tvg-name="PE: RPP TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/rpp.jpeg" group-title="Peru",RPP TV
 http://tv.proyectox.vip:8080/JorgeMonta21/DH4xfGbcGE/8469
 #EXTINF:-1 tvg-chno="13" tvg-id="Global.pe" tvg-name="PE: Global TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/globaltv.jpg" group-title="Peru",Global TV
-http://daleplaytv.vip:8080/UserMkeG/9zYuquSkXP/330739
+https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8?uid=6735889
 #EXTINF:-1 tvg-chno="14" tvg-id="lch2319" tvg-name="GOLPERU HD" group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/GOLPERU.png", GOL Peru
 http://200.60.124.19:29000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Willax.pe" tvg-name="PE: Willax TV" tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/willaxhd.jpg" group-title="Peru",Willax TV
