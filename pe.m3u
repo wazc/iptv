@@ -88,15 +88,15 @@ http://38.44.109.41:8003/play/a001
 #EXTINF:-1 tvg-name="LA: Cinecanal"tvg-id="CINECANAL HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/cinecanal.png"tvg-chno="507"group-title="Cine",Cinecanal
 http://nxt.plus:8080/jesus01/jesus01/2833
 #EXTINF:-1 tvg-name="LA: Studio Universal"tvg-id="STUDIO UNIVERSAL.pe"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYXxkGfKqKZpVmJa4V6SUUTuXRCAFUFSmceQ&s"tvg-chno="508"group-title="Cine",Studio Universal
-http://181.78.106.127:9000/play/ca074/index.m3u8
+http://nxt.plus:8080/jesus01/jesus01/9780
 #EXTINF:-1 tvg-name="LA: Cinemax (SD)"tvg-id="CINEMAX HD (SD)"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Cinemax.jpg"tvg-chno="509"group-title="Cine",Cinemax (SD)
 http://200.60.124.19:29000/play/a025
 #EXTINF:-1 tvg-name="LA: HBO (SD)"tvg-id="HBO (SD)"tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-hbo-282669.png"tvg-chno="524"group-title="Peliculas & Series",HBO (SD)
 http://181.204.79.182:8202/play/a01z
-#EXTINF:-1 tvg-name="HBO +"tvg-id="HBO +"tvg-logo="https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboplus.jpg?fit=256%2C256&ssl=1"tvg-chno="525"group-title="Peliculas & Series",HBO +
-http://181.78.106.127:9000/play/ca070/index.m3u8
+#EXTINF:-1 tvg-name="HBO + (SD)"tvg-id="HBO + (SD)"tvg-logo="https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboplus.jpg?fit=256%2C256&ssl=1"tvg-chno="525"group-title="Peliculas & Series",HBO + (SD)
+http://181.204.79.182:8202/play/a02v
 #EXTINF:-1 tvg-name="HBO Xtreme"tvg-id="HBO Xtreme"tvg-logo="https://i0.wp.com/playtv.cl/wp-content/uploads/2025/01/hboxtreme.jpg?fit=256%2C256&ssl=1"tvg-chno="526"group-title="Peliculas & Series",HBO Xtreme
-http://200.92.227.238:8000/play/a0mu/index.m3u8
+http://45.177.179.227:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-name="HBO FAMILY (SD)"tvg-id="HBO FAMILY (SD)"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/hbofamily.png"tvg-chno="534"group-title="Peliculas & Series",HBO FAMILY (SD)
 http://181.205.130.194:4000/play/a0dr
 #EXTINF:-1 tvg-name="LA: Universal Premiere"tvg-id="UniversalPremiere.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/universal-premiere.png"tvg-chno="571"group-title="Cine",Universal Premiere
@@ -109,5 +109,7 @@ http://190.61.42.218:9000/play/a01n
 http://177.53.155.236:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-name="History Channel (SD)"tvg-id="History Channel (SD)"tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/historype.jpg"tvg-chno="742"group-title="Cultura",History Channel (SD)
 http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 tvg-name="LAT: Telemundo Internacional (SD)"tvg-id="Telemundo Internacional (SD)"tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f6f8d72b92ad5fc4abc5_telemundo.jpeg"tvg-chno="743"group-title="Novelas",Telemundo Internacional (SD)
+http://190.61.42.218:9000/play/a01l
 #EXTINF:-1 tvg-name="INT: DW Español"tvg-id="DW.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/DW.jpeg"tvg-chno="770"group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
