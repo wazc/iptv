@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="PE: Latina"tvg-id="LATINA.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Latina.png"tvg-chno="2"group-title="Peru",Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+#https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b265050148867a6bdf801b6f&sid=ba5t1l1xb2190658033267a8e15f30f99&ndvc=0
 #EXTINF:-1 tvg-name="PE: America"tvg-id="AMERICA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png"tvg-chno="4"group-title="Peru",America
 https://live-evg4.tv360.bitel.com.pe/_3sAS6Fux7RWI0ECFAmEJQ/1739204334/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: Panamericana"tvg-id="PANAMERICANA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png"tvg-chno="5"group-title="Peru",Panamericana
