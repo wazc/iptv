@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="PE: Latina"tvg-id="LATINA.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Latina.png"tvg-chno="2"group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PE: America"tvg-id="AMERICA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png"tvg-chno="4"group-title="Peru",America
-https://live-evg4.tv360.bitel.com.pe/80UrGQumC6hrJ8RB9mpvOg/1750001946/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: Panamericana"tvg-id="PANAMERICANA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png"tvg-chno="5"group-title="Peru",Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-name="PE: Exitosa TV"tvg-id="EXITOSA TV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg"tvg-chno="6"group-title="Peru",Exitosa TV
