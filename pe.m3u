@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="PE: Latina"tvg-id="LATINA.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Latina.png"tvg-chno="2"group-title="Peru",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PE: America"tvg-id="AMERICA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/America.png"tvg-chno="4"group-title="Peru",America
-https://live-evg4.tv360.bitel.com.pe/tl-5f_Il3KXfb5rGeRmqZQ/1746217743/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg4.tv360.bitel.com.pe/80UrGQumC6hrJ8RB9mpvOg/1750001946/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: Panamericana"tvg-id="PANAMERICANA TELEVISION"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/panamericana.png"tvg-chno="5"group-title="Peru",Panamericana
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 #EXTINF:-1 tvg-name="PE: Exitosa TV"tvg-id="EXITOSA TV.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Exitosa.jpg"tvg-chno="6"group-title="Peru",Exitosa TV
@@ -45,6 +45,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-name="PE: TOP Latino"tvg-id="TOP Latino"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg"tvg-chno="99"group-title="Peru",TOP Latino
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
+#EXTINF:-1 tvg-name="PE: Anime Onegai"tvg-id="Anime Onegai"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829900914/903533da5273_480_270.png"tvg-chno="100"group-title="Peru",Anime Onegai
+https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="LA: Star Channel"tvg-id="STAR CHANNEL HD.pe"tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/656f1dc7559d92d610980c7b_star-channel.jpeg"tvg-chno="202"group-title="Cine",Star Channel
 http://200.60.124.19:29000/play/a01r
 #EXTINF:-1 tvg-name="LA: Warner"tvg-id="WARNER CHANNEL HD.pe"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Warner.jpeg"tvg-chno="206"group-title="Cine",Warner
