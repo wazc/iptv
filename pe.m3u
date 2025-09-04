@@ -40,7 +40,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: Piura TV"tvg-id="Piura TV"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png"tvg-chno="98"group-title="Peru",Piura TV
 https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: TOP Latino"tvg-id="TOP Latino"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/23/1735835622757/0fb19a3b961d_480_270.jpg"tvg-chno="99"group-title="Peru",TOP Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 tvg-name="PE: Anime Onegai"tvg-id="Anime Onegai"tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829900914/903533da5273_480_270.png"tvg-chno="100"group-title="Peru",Anime Onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="LA: Star Channel"tvg-id="STAR CHANNEL HD.pe"tvg-logo="https://cdn.prod.website-files.com/656f1dc7559d92d610980772/656f1dc7559d92d610980c7b_star-channel.jpeg"tvg-chno="202"group-title="Cine",Star Channel
